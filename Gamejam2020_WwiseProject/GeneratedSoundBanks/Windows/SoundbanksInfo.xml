@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="127469144" Language="SFX">
+			<ShortName>243617__mrauralization__windy-forest.wav</ShortName>
+			<Path>SFX/243617__mrauralization__windy-forest_B587EF35.wem</Path>
+		</File>
+		<File Id="138037646" Language="SFX">
+			<ShortName>flies and leaves.wav</ShortName>
+			<Path>SFX/flies and leaves_B587EF35.wem</Path>
+		</File>
+		<File Id="282085089" Language="SFX">
+			<ShortName>Desert with Creatures.wav</ShortName>
+			<Path>SFX/Desert with Creatures_B587EF35.wem</Path>
+		</File>
+		<File Id="365483275" Language="SFX">
+			<ShortName>474340__pborel__forest-birds1a.wav</ShortName>
+			<Path>SFX/474340__pborel__forest-birds1a_B587EF35.wem</Path>
+		</File>
+		<File Id="470467406" Language="SFX">
+			<ShortName>Fox in the Spring - 3. Spring is Here (full lush).wav</ShortName>
+			<Path>SFX/Fox in the Spring - 3. Spring is Here (full lush)_D79FB2B7.wem</Path>
+		</File>
+		<File Id="515171751" Language="SFX">
+			<ShortName>Desert\427401__imjeax__desert-ambient-loop.wav</ShortName>
+			<Path>SFX/Desert/427401__imjeax__desert-ambient-loop_B587EF35.wem</Path>
+		</File>
+		<File Id="548503344" Language="SFX">
+			<ShortName>Fox in the Spring - 1. Protector (initial state).wav</ShortName>
+			<Path>SFX/Fox in the Spring - 1. Protector (initial state)_D79FB2B7.wem</Path>
+		</File>
+		<File Id="572630697" Language="SFX">
+			<ShortName>Fox in the Spring - 2. On the Way (midium lush).wav</ShortName>
+			<Path>SFX/Fox in the Spring - 2. On the Way (midium lush)_D79FB2B7.wem</Path>
+		</File>
+		<File Id="817944739" Language="SFX">
+			<ShortName>Windy Desert.wav</ShortName>
+			<Path>SFX/Windy Desert_B587EF35.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1083137540" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Fox</ObjectPath>
+			<ShortName>Fox</ShortName>
+			<Path>Fox.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1229948536" Name="Environment" ObjectPath="\Events\Default Work Unit\Environment"/>
+				<Event Id="2243388319" Name="Fox_Voice" ObjectPath="\Events\Default Work Unit\Fox_Voice"/>
+				<Event Id="712161704" Name="Run" ObjectPath="\Events\Default Work Unit\Run"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="127469144"/>
+				<File Id="138037646"/>
+				<File Id="282085089"/>
+				<File Id="365483275"/>
+				<File Id="470467406"/>
+				<File Id="515171751"/>
+				<File Id="548503344"/>
+				<File Id="572630697"/>
+				<File Id="817944739"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="1348889" Language="SFX">
+					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
+					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_7299FF01.wem</Path>
+				</File>
+				<File Id="20935465" Language="SFX">
+					<ShortName>427127__caap__82-perritogimoteafeliz.wav</ShortName>
+					<Path>SFX/427127__caap__82-perritogimoteafeliz_10C4C929.wem</Path>
+				</File>
+				<File Id="55956683" Language="SFX">
+					<ShortName>427133__caap__74-perritoladrasorprendido.wav</ShortName>
+					<Path>SFX/427133__caap__74-perritoladrasorprendido_10C4C929.wem</Path>
+				</File>
+				<File Id="109231995" Language="SFX">
+					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
+					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem</Path>
+				</File>
+				<File Id="243927064" Language="SFX">
+					<ShortName>427117__caap__06-perritogimoteando.wav</ShortName>
+					<Path>SFX/427117__caap__06-perritogimoteando_10C4C929.wem</Path>
+				</File>
+				<File Id="254784022" Language="SFX">
+					<ShortName>Sand Walking.wav</ShortName>
+					<Path>SFX/Sand Walking_142A111D.wem</Path>
+				</File>
+				<File Id="265186300" Language="SFX">
+					<ShortName>427167__caap__15-perritoguautierno.wav</ShortName>
+					<Path>SFX/427167__caap__15-perritoguautierno_10C4C929.wem</Path>
+				</File>
+				<File Id="265344586" Language="SFX">
+					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
+					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_01B40678.wem</Path>
+				</File>
+				<File Id="270348714" Language="SFX">
+					<ShortName>427180__caap__43-perritoselamenta.wav</ShortName>
+					<Path>SFX/427180__caap__43-perritoselamenta_10C4C929.wem</Path>
+				</File>
+				<File Id="310542485" Language="SFX">
+					<ShortName>Sand Walking.wav</ShortName>
+					<Path>SFX/Sand Walking_A513D3B4.wem</Path>
+				</File>
+				<File Id="467803139" Language="SFX">
+					<ShortName>Sand Walking.wav</ShortName>
+					<Path>SFX/Sand Walking_21A6FF38.wem</Path>
+				</File>
+				<File Id="496802094" Language="SFX">
+					<ShortName>Sand Walking.wav</ShortName>
+					<Path>SFX/Sand Walking_AB229659.wem</Path>
+				</File>
+				<File Id="564514119" Language="SFX">
+					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
+					<Path>SFX/411148__etm654__running-in-grass_CE55EE71.wem</Path>
+				</File>
+				<File Id="625639358" Language="SFX">
+					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
+					<Path>SFX/411148__etm654__running-in-grass_A6690B37.wem</Path>
+				</File>
+				<File Id="653340504" Language="SFX">
+					<ShortName>Sand Walking.wav</ShortName>
+					<Path>SFX/Sand Walking_6EA62789.wem</Path>
+				</File>
+				<File Id="818807653" Language="SFX">
+					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
+					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_4AC4D03A.wem</Path>
+				</File>
+				<File Id="881967954" Language="SFX">
+					<ShortName>427187__caap__64-perritotriste.wav</ShortName>
+					<Path>SFX/427187__caap__64-perritotriste_10C4C929.wem</Path>
+				</File>
+				<File Id="886714693" Language="SFX">
+					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
+					<Path>SFX/411148__etm654__running-in-grass_B48BCF13.wem</Path>
+				</File>
+				<File Id="1028363226" Language="SFX">
+					<ShortName>427145__caap__24-guauperritofeliz.wav</ShortName>
+					<Path>SFX/427145__caap__24-guauperritofeliz_10C4C929.wem</Path>
+				</File>
+				<File Id="1069672804" Language="SFX">
+					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
+					<Path>SFX/411148__etm654__running-in-grass_13A407D2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

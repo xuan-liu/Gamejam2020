@@ -9,5 +9,5 @@
   <SoundbankPath>Audio/GeneratedSoundBanks</SoundbankPath>
   <WwiseInstallationPathMac>/Applications/Audiokinetic/Wwise 2019.1.7.7135/Wwise.app</WwiseInstallationPathMac>
   <WwiseInstallationPathWindows />
-  <WwiseProjectPath>../../../Fox Sound/Gamejam2020_WwiseProject/Gamejam2020_WwiseProject.wproj</WwiseProjectPath>
+  <WwiseProjectPath>../../Gamejam2020/Gamejam2020_WwiseProject/Gamejam2020_WwiseProject.wproj</WwiseProjectPath>
 </WwiseSettings>

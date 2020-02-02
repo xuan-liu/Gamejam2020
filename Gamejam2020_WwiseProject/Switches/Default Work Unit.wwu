@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C95D79F1-F241-4D2B-AAB4-56801E859D05}" SchemaVersion="94">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{C95D79F1-F241-4D2B-AAB4-56801E859D05}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Walk_Layers" ID="{2AF66DCC-8E91-47A7-966D-B8063CC3A2DF}">
+					<ChildrenList>
+						<Switch Name="Sand" ID="{6C75432A-E5F8-4766-8D8C-AD2D86DA114E}"/>
+						<Switch Name="Grass" ID="{7356DF50-7132-46A8-8D80-0DFC49BE29AE}"/>
+						<Switch Name="DryGrass" ID="{E71E1C23-45F2-4B4C-A240-94C7C80FFDF7}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Fox_Voice" ID="{14A01C4C-2076-4AEF-B781-63B77A9C1031}">
+					<ChildrenList>
+						<Switch Name="happy" ID="{74BA1B89-121B-4B2C-B9D8-2CEF6E0F23ED}"/>
+						<Switch Name="sad" ID="{400B3BDC-9683-4138-BF92-84627BBA9C5B}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
