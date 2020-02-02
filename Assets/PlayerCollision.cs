@@ -1,11 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class PlayerCollision : MonoBehaviour
 {
     public GameObject dialogUI;
     public static bool GameIsPaused;
+
+    //public TextMesh textMesh;
 
     void Start()
     {
@@ -26,6 +30,9 @@ public class PlayerCollision : MonoBehaviour
             KeepScore.Score += 1; //reference the keepscore script Destroy(collision.gameObject);
 
             dialogUI.SetActive(true);
+
+            //textMesh.text = "fsfasfasf";
+;
             Time.timeScale = 0f;
             GameIsPaused = true;
 
