@@ -1,14 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerCollision : MonoBehaviour
 {
     public GameObject dialogUI;
     public static bool GameIsPaused;
 
+    GameManager manager;
+
     void Start()
     {
+        manager = GameManager.instance;
+
         //DialogCanvas = GetComponent<Canvas>();
         dialogUI.SetActive(false);
         GameIsPaused = false;
@@ -21,11 +26,11 @@ public class PlayerCollision : MonoBehaviour
         {
             //Step 1: print out to console what happens in this if statement
             Debug.Log("hit a cube! generate a dialog");
-
-            //Step 2, once we’ve done the score board
-            KeepScore.Score += 1; //reference the keepscore script Destroy(collision.gameObject);
+            manager.score++;
+            manager.ChangeIsland(manager.score);            
 
             dialogUI.SetActive(true);
+            manager.ShowStory(manager.score);
             Time.timeScale = 0f;
             GameIsPaused = true;
 
