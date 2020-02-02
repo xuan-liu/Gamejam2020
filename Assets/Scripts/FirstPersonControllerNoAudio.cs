@@ -107,6 +107,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
                     m_MoveDir.y = m_JumpSpeed;
                     m_Jump = false;
                     m_Jumping = true;
+                    PlayAudio.instance.PlayJump();
                 }
             }
             else

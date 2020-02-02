@@ -13,15 +13,31 @@ public class PlayAudio : MonoBehaviour
     public AK.Wwise.Event ELevel4;
     public AK.Wwise.Event ELevel5;
     public AK.Wwise.Event ELevel6;
+    public AK.Wwise.Event Jump;
+
 
     public AK.Wwise.State SLevel1;
 
+    public static PlayAudio instance;
 
 
-
+    Public void PlayJump()
+    {
+        Jump.Post(gameObject);
+    }
 
     //public AK.Wwise.Event Envrionment;
-    // Start is called before the first frame update
+
+
+    private void Awake()
+    {
+        //Singleton
+        instance = this;
+    }
+
+
+
+   // Start is called before the first frame update
     void Start()
     {
         Environment.Post(gameObject);

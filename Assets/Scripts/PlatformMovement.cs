@@ -12,7 +12,7 @@ public class PlatformMovement : MonoBehaviour
     enum State { Start, End};
     State state;
 
-    public const float closeThreshold = 0.1f;
+    public const float closeThreshold = 0.001f;
 
 
     // Start is called before the first frame update
