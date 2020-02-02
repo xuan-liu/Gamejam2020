@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4678459819148643492
+--- !u!1 &2980200538013061837
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4678459819148643493}
-  - component: {fileID: 4678459819148643494}
+  - component: {fileID: 2980200538013061835}
+  - component: {fileID: 2980200538013061834}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4678459819148643493
+--- !u!4 &2980200538013061835
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4678459819148643492}
+  m_GameObject: {fileID: 2980200538013061837}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,43 +31,34 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4678459819148643494
+--- !u!114 &2980200538013061834
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4678459819148643492}
+  m_GameObject: {fileID: 2980200538013061837}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9fd371f4706bca149a3ef6922ff99d02, type: 3}
+  m_Script: {fileID: 11500000, guid: f9143ced71b950245a18a157b9734167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   stories:
-  - story 0
-  - story 1
-  - story 2
-  - story 3
-  - story 4
-  - story 5
-  - story 6
-  - story 7
-  - story 8
-  - story 9
-  - story 10
-  - story 11
-  - story 12
-  - story 13
-  - story 14
-  - story 15
-  - story 16
-  - story 17
-  - story 18
-  - story 19
-  - story 20
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
   firstIsland: {fileID: 0}
   secondIsland: {fileID: 0}
   thirdIsland: {fileID: 0}
+  level1: {fileID: 0}
+  platformX1: {fileID: 0}
+  reset: {fileID: 0}
+  finish1: {fileID: 0}
+  reset2: {fileID: 0}
+  finishOneTime: 0
+  resetOneTime: 0
   score: 0
   firstTextures:
   - {fileID: 2800000, guid: ca24b037984fff04e8a2c799794fd93d, type: 3}
@@ -82,4 +73,6 @@ MonoBehaviour:
   - {fileID: 2800000, guid: 21e7ad1eb2dccf74a94336395e82603a, type: 3}
   - {fileID: 2800000, guid: b01c0b14477709a4ba786b5bc3d1b17c, type: 3}
   text: {fileID: 0}
+  player: {fileID: 0}
+  startTrans: {fileID: 0}
   level: 0
