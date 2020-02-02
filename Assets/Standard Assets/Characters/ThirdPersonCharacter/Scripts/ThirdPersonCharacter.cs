@@ -29,6 +29,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 		CapsuleCollider m_Capsule;
 		bool m_Crouching;
 
+		public Vector2 airSpeed = new Vector2(10f, 10f);
 
 		void Start()
 		{
@@ -66,6 +67,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			else
 			{
 				HandleAirborneMovement();
+				CustomAirMovement(move);
 			}
 
 			ScaleCapsuleForCrouching(crouch);
@@ -152,13 +154,20 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			}
 		}
 
+		private void CustomAirMovement(Vector3 move)
+        {
+			//custom code - trying to fix air movement
+			//m_Rigidbody.velocity = new Vector3(m_ForwardAmount, m_Rigidbody.velocity.x, m_ForwardAmount);
+			print("X Velocity " + m_Rigidbody.velocity.x + "Z Velocity " + m_Rigidbody.velocity.z + "move" + move);
+			m_Rigidbody.velocity = new Vector3(-Input.GetAxis("Horizontal") * airSpeed.x, m_Rigidbody.velocity.y, Input.GetAxis("Vertical") * airSpeed.y);
+		}
 
 		void HandleAirborneMovement()
 		{
+
 			// apply extra gravity from multiplier:
 			Vector3 extraGravityForce = (Physics.gravity * m_GravityMultiplier) - Physics.gravity;
 			m_Rigidbody.AddForce(extraGravityForce);
-
 			m_GroundCheckDistance = m_Rigidbody.velocity.y < 0 ? m_OrigGroundCheckDistance : 0.01f;
 		}
 
