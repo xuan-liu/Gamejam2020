@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c11812068b74ad29232d81ae1511e4, type: 3}
+  m_Name: 6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA
+  m_EditorClassIdentifier: 
+  objectName: Music_Layers
+  id: 3474042523
+  guid: 6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA

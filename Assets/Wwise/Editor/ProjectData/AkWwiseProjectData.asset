@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aa01e3276ca420da75e5c563ced415, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 41528972c2e5d842a4009c372a302cbd
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: cfddb62e4d1d3141807992d33ffba93c
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 11b28314f55c184d8d66c2437682faac
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c555406357bff4459cb89afab1b47dbe
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: d40e90876e266e41bbb28e499e75dcd4
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 39776fd95ad9ed4faa17cf88de83269a
+    GuidInternal: 
+    m_lastTime: -8586209922824775808
+    List:
+    - name: Music_Layers
+      guid: 9a7abf6bd2862949aa7f4bb8755b5aca
+      id: 3474042523
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Layers
+        ObjectType: 9
+      Path: Default Work Unit/Music_Layers
+      values:
+      - name: None
+        guid: 932504e258f3cc459a6df2e2e1eda08c
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: State_1
+        guid: e52c99389aecdb4e8aa77eebfbbf80fc
+        id: 1277114380
+        PathAndIcons:
+        - ElementName: State_1
+          ObjectType: 8
+      - name: State_2
+        guid: 4b882aa03d32a240bf88779be53d6f9a
+        id: 1277114383
+        PathAndIcons:
+        - ElementName: State_2
+          ObjectType: 8
+      - name: State_3
+        guid: 100cbcb31bca0940bf8970413b9c67de
+        id: 1277114382
+        PathAndIcons:
+        - ElementName: State_3
+          ObjectType: 8
+      - name: State_4
+        guid: af7894cb0289e44cae57ce9b6227be3c
+        id: 1277114377
+        PathAndIcons:
+        - ElementName: State_4
+          ObjectType: 8
+      - name: State_5
+        guid: 72cb70295bdec745a691ec66f4ddaeec
+        id: 1277114376
+        PathAndIcons:
+        - ElementName: State_5
+          ObjectType: 8
+      - name: State_6
+        guid: df47864832b85e4f9b1843c7949b3830
+        id: 1277114379
+        PathAndIcons:
+        - ElementName: State_6
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: f1795dc941f22b4daab456801e859d05
+    GuidInternal: 
+    m_lastTime: -8586209922824775808
+    List:
+    - name: Music_Layers
+      guid: cc6df62a918ea747966db8063cc3a2df
+      id: 3474042523
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Layers
+        ObjectType: 11
+      Path: Default Work Unit/Music_Layers
+      values:
+      - name: Layer_1
+        guid: 2a43756cf8e566478d8cad2d86da114e
+        id: 267359788
+        PathAndIcons:
+        - ElementName: Layer_1
+          ObjectType: 10
+      - name: Layer_2
+        guid: 231c1ee7f2454c4ba24094c7c80ffdf7
+        id: 267359791
+        PathAndIcons:
+        - ElementName: Layer_2
+          ObjectType: 10
+      - name: Layer_3
+        guid: 50df56733271a8468d800dfc49be29ae
+        id: 267359790
+        PathAndIcons:
+        - ElementName: Layer_3
+          ObjectType: 10
+      - name: Layer_4
+        guid: 3ca163080b6b0a4b94ac56f41ce50937
+        id: 267359785
+        PathAndIcons:
+        - ElementName: Layer_4
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 1b70d1377922a841baeb6dca9addfb6e
+    GuidInternal: 
+    m_lastTime: -8586209951034775808
+    List: []
+  ExpandedItems: []
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

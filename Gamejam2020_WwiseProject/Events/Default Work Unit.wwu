@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Environment" ID="{331736C2-92CA-4F18-8D22-311E8E82280F}">
+					<ChildrenList>
+						<Action Name="" ID="{B5D5ED03-0A17-4C71-ABE6-2D67B16D3840}" ShortID="237449247">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambience" ID="{C3C2A78C-71F0-4360-A3ED-54C8C2D00FB3}" WorkUnitID="{F1BDBE49-111E-40AF-9101-CBC90E5C4476}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D377CC06-F607-4B04-A4EE-C8FB7F44FFE5}" ShortID="322725674">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicBGM" ID="{245E7995-1991-4AC9-947C-5A832F0EB667}" WorkUnitID="{F1BDBE49-111E-40AF-9101-CBC90E5C4476}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Run" ID="{A9F4CBFA-838B-4F49-9549-737D86483358}">
+					<ChildrenList>
+						<Action Name="" ID="{595661F9-4AF7-40C8-90B8-233FE99B89FD}" ShortID="334197237">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ground Type" ID="{3DE51EEE-919E-41E2-BF47-C16E2EE2A70D}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_Voice" ID="{6B62CBFE-E0AF-4603-8925-51ACFA447139}">
+					<ChildrenList>
+						<Action Name="" ID="{D93F4C60-5037-48C0-822B-8253AE7B369C}" ShortID="22118671">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fox Voice" ID="{88CA5817-8610-4D7A-AC7D-9FF4C5F64952}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

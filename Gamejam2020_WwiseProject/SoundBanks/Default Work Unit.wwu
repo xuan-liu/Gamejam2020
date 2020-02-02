@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1483B211-5CF5-4D18-8D66-C2437682FAAC}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{1483B211-5CF5-4D18-8D66-C2437682FAAC}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Fox" ID="{AF605B16-ED96-4AA5-98DB-570B4C50533E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Fox_Voice" ID="{6B62CBFE-E0AF-4603-8925-51ACFA447139}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Environment" ID="{331736C2-92CA-4F18-8D22-311E8E82280F}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Run" ID="{A9F4CBFA-838B-4F49-9549-737D86483358}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

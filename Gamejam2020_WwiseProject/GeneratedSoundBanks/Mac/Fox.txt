@@ -1,0 +1,108 @@
+Event	ID	Name			Wwise Object Path	Notes
+	712161704	Run			\Default Work Unit\Run	
+	1229948536	Environment			\Default Work Unit\Environment	
+	2243388319	Fox_Voice			\Default Work Unit\Fox_Voice	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2243388319	Fox_Voice			\Default Work Unit\Fox_Voice	
+	2953943075	Walk_Layers			\Default Work Unit\Walk_Layers	
+
+Switch	ID	Name	Switch Group			Notes
+	443572635	sad	Fox_Voice			
+	1427264549	happy	Fox_Voice			
+	803837735	Sand	Walk_Layers			
+	1348104318	DryGrass	Walk_Layers			
+	4248645337	Grass	Walk_Layers			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3474042523	Music_Layers			\Default Work Unit\Music_Layers	
+
+State	ID	Name	State Group			Notes
+	0	None	Music_Layers			
+	1277114376	State_5	Music_Layers			
+	1277114377	State_4	Music_Layers			
+	1277114379	State_6	Music_Layers			
+	1277114380	State_1	Music_Layers			
+	1277114382	State_3	Music_Layers			
+	1277114383	State_2	Music_Layers			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	21323635	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	40713045	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music		
+	89513516	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	94570378	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music		
+	95373851	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+	105677396	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	106975974	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert		
+	120617387	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	173803937	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+	192083453	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert		
+	245710155	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music		
+	250347290	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 2		
+	255549599	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	257228251	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	259368619	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 3		
+	265153096	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 2		
+	271027749	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert		
+	276495370	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	317654378	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	383789942	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	386601948	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	399854443	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 2		
+	474413790	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	476343403	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	501649026	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	536425564	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert		
+	549440472	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	569460135	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 3		
+	627721986	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+	642307839	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	642516361	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	701341697	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music		
+	723651712	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	725412289	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 2		
+	755951622	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 3		
+	915001295	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	917946542	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 3		
+	943394510	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert		
+	951464030	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	982262324	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	1008891097	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	1012147630	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+	1047877250	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves		
+	1055843389	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	1055850344	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1348889	491485__fabianacarmonas__29pasos-corriendo-en-cesped_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_7299FF01.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_03		36620
+	20935465	427127__caap__82-perritogimoteafeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427127__caap__82-perritogimoteafeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427127__caap__82-perritogimoteafeliz		149666
+	55956683	427133__caap__74-perritoladrasorprendido	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427133__caap__74-perritoladrasorprendido_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427133__caap__74-perritoladrasorprendido		31538
+	109231995	491485__fabianacarmonas__29pasos-corriendo-en-cesped	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped		40532
+	243927064	427117__caap__06-perritogimoteando	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427117__caap__06-perritogimoteando_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427117__caap__06-perritogimoteando		48856
+	254784022	Sand Walking	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_142A111D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking		51960
+	265186300	427167__caap__15-perritoguautierno	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427167__caap__15-perritoguautierno_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427167__caap__15-perritoguautierno		38150
+	265344586	491485__fabianacarmonas__29pasos-corriendo-en-cesped_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01B40678.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01		35308
+	270348714	427180__caap__43-perritoselamenta	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427180__caap__43-perritoselamenta_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427180__caap__43-perritoselamenta		49680
+	310542485	Sand Walking_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_A513D3B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_02		171648
+	467803139	Sand Walking_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_21A6FF38.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_01		196160
+	496802094	Sand Walking_04	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_AB229659.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_04		183904
+	564514119	411148__etm654__running-in-grass_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_CE55EE71.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_03		43072
+	625639358	411148__etm654__running-in-grass_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_A6690B37.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_02		41056
+	653340504	Sand Walking_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_6EA62789.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_03		136740
+	818807653	491485__fabianacarmonas__29pasos-corriendo-en-cesped_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_4AC4D03A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_02		37924
+	881967954	427187__caap__64-perritotriste	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427187__caap__64-perritotriste_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427187__caap__64-perritotriste		88992
+	886714693	411148__etm654__running-in-grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_B48BCF13.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass		37696
+	1028363226	427145__caap__24-guauperritofeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427145__caap__24-guauperritofeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427145__caap__24-guauperritofeliz		28028
+	1069672804	411148__etm654__running-in-grass_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_13A407D2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_01		41728
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	127469144	5 Windy Forest	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\243617__mrauralization__windy-forest_B587EF35.wem	127469144.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest	
+	138037646	0 flies and leaves	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\flies and leaves_B587EF35.wem	138037646.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 flies and leaves	
+	282085089	3 Desert with Creatures	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert with Creatures_B587EF35.wem	282085089.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures	
+	365483275	4 Birds Forest	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\474340__pborel__forest-birds1a_B587EF35.wem	365483275.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest	
+	470467406	Music 3	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Fox in the Spring - 3. Spring is Here (full lush)_D79FB2B7.wem	470467406.wem	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 3	
+	515171751	2 Desert	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert\427401__imjeax__desert-ambient-loop_B587EF35.wem	515171751.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert	
+	548503344	Music	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Fox in the Spring - 1. Protector (initial state)_D79FB2B7.wem	548503344.wem	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music	
+	572630697	Music 2	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Fox in the Spring - 2. On the Way (midium lush)_D79FB2B7.wem	572630697.wem	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Music 2	
+	817944739	1 Windy Desert	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Windy Desert_B587EF35.wem	817944739.wem	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 Windy Desert	
+
