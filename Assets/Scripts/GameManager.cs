@@ -33,12 +33,21 @@ public class GameManager : MonoBehaviour
 
     public Text text;
 
+    public GameObject player;
+    public Transform startTrans;
+
     // current level of the game
     public int level = 0;
 
     public void Awake()
     {
         instance = this;
+    }
+
+    public void ResetToStart()
+    {
+        player.transform.position = startTrans.position;
+        player.transform.forward = startTrans.forward;
     }
 
     public void ChangeIsland(int score)
@@ -116,6 +125,8 @@ public class GameManager : MonoBehaviour
         ChangeIslandColor(0, 0);
         secondIsland.SetActive(false);
         thirdIsland.SetActive(false);
+
+        ResetToStart();
     }
 
     // Update is called once per frame
