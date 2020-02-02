@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     public GameObject firstIsland;
     public GameObject secondIsland;
     public GameObject thirdIsland;
+    public GameObject level1;
 
     public int score = 0;
 
@@ -49,6 +50,7 @@ public class GameManager : MonoBehaviour
         player.transform.position = startTrans.position;
         player.transform.forward = startTrans.forward;
     }
+
 
     public void ChangeIsland(int score)
     {

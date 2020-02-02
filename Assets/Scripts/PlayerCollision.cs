@@ -37,6 +37,14 @@ public class PlayerCollision : MonoBehaviour
             Destroy(collision.gameObject); //delete what we collided with. The cube will disappear
             // if we just typed "gameObject", the player would get deleted // not cube, since this script will be connected to the player.
         }
+        else if (collision.collider.CompareTag("Respawn"))
+        {
+            manager.ResetToStart();
+        }
+        else if (collision.collider.CompareTag("Finish"))
+        {
+            manager.ResetToStart();
+        }
     }
 
     void Update()
