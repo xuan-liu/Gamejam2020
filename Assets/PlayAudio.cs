@@ -16,11 +16,17 @@ public class PlayAudio : MonoBehaviour
     public AK.Wwise.Event Jump;
 
 
+
     public AK.Wwise.State SLevel1;
+
 
 
     //Singleton
     public static PlayAudio instance;
+
+
+
+
 
 
     public void PlayJump()
@@ -54,7 +60,7 @@ public class PlayAudio : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (EnvironmentLevel <= 0) ELevel1.Post(gameObject);
+        /*if (EnvironmentLevel <= 0) ELevel1.Post(gameObject);
 
         if (EnvironmentLevel >= 0 && EnvironmentLevel < 100) ELevel1.Post(gameObject);
         if (EnvironmentLevel >= 100 && EnvironmentLevel < 200) ELevel2.Post(gameObject);
@@ -63,7 +69,7 @@ public class PlayAudio : MonoBehaviour
         if (EnvironmentLevel >= 400 && EnvironmentLevel < 500) ELevel5.Post(gameObject);
         if (EnvironmentLevel >= 500 && EnvironmentLevel < 600) ELevel6.Post(gameObject);
 
-        if (EnvironmentLevel >= 600) ELevel6.Post(gameObject);
+        if (EnvironmentLevel >= 600) ELevel6.Post(gameObject);*/
 
     }
 }

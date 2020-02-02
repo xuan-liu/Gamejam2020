@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3ab0b641fea412abd98dafb1ce49a1, type: 3}
+  m_Name: 2AF66DCC-8E91-47A7-966D-B8063CC3A2DF
+  m_EditorClassIdentifier: 
+  objectName: Walk_Layers
+  id: 2953943075
+  guid: 2AF66DCC-8E91-47A7-966D-B8063CC3A2DF

@@ -5,6 +5,16 @@
 			<ChildrenList>
 				<Event Name="Environment" ID="{331736C2-92CA-4F18-8D22-311E8E82280F}">
 					<ChildrenList>
+						<Action Name="" ID="{59AD3C46-EC85-465F-BD8E-9C9A4E10988F}" ShortID="264039166">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}" WorkUnitID="{D96F7739-D95A-4FED-AA17-CF88DE83269A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 						<Action Name="" ID="{B5D5ED03-0A17-4C71-ABE6-2D67B16D3840}" ShortID="237449247">
 							<ReferenceList>
 								<Reference Name="Target">
@@ -148,6 +158,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Jump" ID="{41D3166A-F728-46D4-9DBE-F6A20F61B847}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{23D54AEC-2F4B-4D1A-BE1F-1FEAF70C976B}" ShortID="915884043">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fox Voice" ID="{88CA5817-8610-4D7A-AC7D-9FF4C5F64952}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

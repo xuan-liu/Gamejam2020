@@ -63,7 +63,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             if (!m_Jump)
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
-                //m_Animator.SetTrigger("Jump");
             }
 
             if (!m_PreviouslyGrounded && m_CharacterController.isGrounded)
@@ -79,12 +78,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
 
-            if(m_Jump)
-            {
-                m_Animator.SetTrigger("Jump");
-            }
 
-            //m_Animator.SetBool("Walk", );
 
             if(m_MoveDir == new Vector3(0, -10, 0))
             {
@@ -94,9 +88,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             {
                 m_Animator.SetBool("Walk", true);
             }
-
-
-            Debug.Log(m_MoveDir);
 
         }
 
@@ -125,6 +116,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
                 if (m_Jump)
                 {
+                    m_Animator.SetTrigger("Jump");
                     m_MoveDir.y = m_JumpSpeed;
                     m_Jump = false;
                     m_Jumping = true;
@@ -202,7 +194,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             bool waswalking = m_IsWalking;
 
-            //m_Animator.SetBool("Walk", m_IsWalking);
 
 #if !MOBILE_INPUT
             // On standalone builds, walk/run speed is modified by a key press.
