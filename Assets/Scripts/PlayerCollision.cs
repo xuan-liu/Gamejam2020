@@ -8,11 +8,11 @@ public class PlayerCollision : MonoBehaviour
     public GameObject dialogUI;
     public static bool GameIsPaused;
 
-    GameManager manager;
+    Manager manager;
 
     void Start()
     {
-        manager = GameManager.instance;
+        manager = Manager.instance;
 
         //DialogCanvas = GetComponent<Canvas>();
         dialogUI.SetActive(false);

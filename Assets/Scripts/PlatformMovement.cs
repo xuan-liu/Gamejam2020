@@ -13,7 +13,7 @@ public class PlatformMovement : MonoBehaviour
     State state;
 
     public const float closeThreshold = 0.001f;
-
+    public bool isMoving = false;
 
     // Start is called before the first frame update
     void Start()
