@@ -96,7 +96,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
 
 
-            Debug.Log(m_MoveDir);
+           // Debug.Log(m_MoveDir);
 
         }
 

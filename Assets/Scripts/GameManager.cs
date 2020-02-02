@@ -3,16 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Manager : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
-    public static Manager instance;
-    public string[] stories = {"story 0", "story 1", "story 2",
-        "story 3", "story 4", "story 5",
-        "story 6", "story 7", "story 8",
-        "story 9", "story 10", "story 11",
-        "story 12", "story 13", "story 14",
-        "story 15", "story 16", "story 17",
-        "story 18", "story 19", "story 20" };
+    public static GameManager instance;
+    public string[] stories = { "1", "2", "3", "4", "5"};
 
     public GameObject firstIsland;
     public GameObject secondIsland;
