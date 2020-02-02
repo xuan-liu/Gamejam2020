@@ -9,6 +9,8 @@ Event	ID	Name			Wwise Object Path	Notes
 	1290008374	Level_6			\Default Work Unit\SetEnvironmentLevel\Level_6	
 	2243388319	Fox_Voice			\Default Work Unit\Fox_Voice	
 	3802555985	Ocean			\Default Work Unit\Ocean	
+	3833651337	Jump			\Default Work Unit\Jump	
+	3978245845	PickUp			\Default Work Unit\PickUp	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
 	2243388319	Fox_Voice			\Default Work Unit\Fox_Voice	
@@ -84,7 +86,9 @@ Custom State	ID	Name	State Group	Owner		Notes
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	1348889	491485__fabianacarmonas__29pasos-corriendo-en-cesped_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_7299FF01.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_03		36620
 	20935465	427127__caap__82-perritogimoteafeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427127__caap__82-perritogimoteafeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427127__caap__82-perritogimoteafeliz		149666
+	34948066	jump-to-grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_A43D394E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass		8490
 	55956683	427133__caap__74-perritoladrasorprendido	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427133__caap__74-perritoladrasorprendido_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427133__caap__74-perritoladrasorprendido		31538
+	91091370	jump-to-grass_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_C9890EF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass_01		7873
 	109231995	491485__fabianacarmonas__29pasos-corriendo-en-cesped	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped		40532
 	240197249	Ocean	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\400632__inspectorj__ambience-seaside-waves-close-a_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean		3823152
 	243927064	427117__caap__06-perritogimoteando	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427117__caap__06-perritogimoteando_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427117__caap__06-perritogimoteando		48856
@@ -93,6 +97,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	265344586	491485__fabianacarmonas__29pasos-corriendo-en-cesped_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01B40678.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01		35308
 	270348714	427180__caap__43-perritoselamenta	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427180__caap__43-perritoselamenta_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427180__caap__43-perritoselamenta		49680
 	310542485	Sand Walking_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_A513D3B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_02		171648
+	460140108	Jump off to grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Jump off to grass_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Jump off to grass		5378
 	467803139	Sand Walking_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_21A6FF38.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_01		196160
 	496802094	Sand Walking_04	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_AB229659.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_04		183904
 	564514119	411148__etm654__running-in-grass_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_CE55EE71.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_03		43072
@@ -101,7 +106,9 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	818807653	491485__fabianacarmonas__29pasos-corriendo-en-cesped_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_4AC4D03A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_02		37924
 	881967954	427187__caap__64-perritotriste	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427187__caap__64-perritotriste_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427187__caap__64-perritotriste		88992
 	886714693	411148__etm654__running-in-grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_B48BCF13.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass		37696
+	944081079	Slowing down	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Slowing down_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Slowing down		3428
 	1028363226	427145__caap__24-guauperritofeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427145__caap__24-guauperritofeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427145__caap__24-guauperritofeliz		28028
+	1047108433	PickUp	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\141695__copyc4t__levelup_8C7C0445.wem		\Actor-Mixer Hierarchy\Default Work Unit\PickUp		20692
 	1069672804	411148__etm654__running-in-grass_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_13A407D2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_01		41728
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes

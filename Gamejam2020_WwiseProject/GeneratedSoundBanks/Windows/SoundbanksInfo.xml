@@ -55,6 +55,7 @@
 			<IncludedEvents>
 				<Event Id="1229948536" Name="Environment" ObjectPath="\Events\Default Work Unit\Environment"/>
 				<Event Id="2243388319" Name="Fox_Voice" ObjectPath="\Events\Default Work Unit\Fox_Voice"/>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\Jump"/>
 				<Event Id="1290008369" Name="Level_1" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_1"/>
 				<Event Id="1290008370" Name="Level_2" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_2"/>
 				<Event Id="1290008371" Name="Level_3" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_3"/>
@@ -62,6 +63,7 @@
 				<Event Id="1290008373" Name="Level_5" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_5"/>
 				<Event Id="1290008374" Name="Level_6" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_6"/>
 				<Event Id="3802555985" Name="Ocean" ObjectPath="\Events\Default Work Unit\Ocean"/>
+				<Event Id="3978245845" Name="PickUp" ObjectPath="\Events\Default Work Unit\PickUp"/>
 				<Event Id="712161704" Name="Run" ObjectPath="\Events\Default Work Unit\Run"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
@@ -84,9 +86,17 @@
 					<ShortName>427127__caap__82-perritogimoteafeliz.wav</ShortName>
 					<Path>SFX/427127__caap__82-perritogimoteafeliz_10C4C929.wem</Path>
 				</File>
+				<File Id="34948066" Language="SFX">
+					<ShortName>jump-to-grass.wav</ShortName>
+					<Path>SFX/jump-to-grass_A43D394E.wem</Path>
+				</File>
 				<File Id="55956683" Language="SFX">
 					<ShortName>427133__caap__74-perritoladrasorprendido.wav</ShortName>
 					<Path>SFX/427133__caap__74-perritoladrasorprendido_10C4C929.wem</Path>
+				</File>
+				<File Id="91091370" Language="SFX">
+					<ShortName>jump-to-grass.wav</ShortName>
+					<Path>SFX/jump-to-grass_C9890EF0.wem</Path>
 				</File>
 				<File Id="109231995" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
@@ -120,6 +130,10 @@
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_A513D3B4.wem</Path>
 				</File>
+				<File Id="460140108" Language="SFX">
+					<ShortName>Jump off to grass.wav</ShortName>
+					<Path>SFX/Jump off to grass_49718417.wem</Path>
+				</File>
 				<File Id="467803139" Language="SFX">
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_21A6FF38.wem</Path>
@@ -152,9 +166,17 @@
 					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
 					<Path>SFX/411148__etm654__running-in-grass_B48BCF13.wem</Path>
 				</File>
+				<File Id="944081079" Language="SFX">
+					<ShortName>Slowing down.wav</ShortName>
+					<Path>SFX/Slowing down_49718417.wem</Path>
+				</File>
 				<File Id="1028363226" Language="SFX">
 					<ShortName>427145__caap__24-guauperritofeliz.wav</ShortName>
 					<Path>SFX/427145__caap__24-guauperritofeliz_10C4C929.wem</Path>
+				</File>
+				<File Id="1047108433" Language="SFX">
+					<ShortName>141695__copyc4t__levelup.wav</ShortName>
+					<Path>SFX/141695__copyc4t__levelup_8C7C0445.wem</Path>
 				</File>
 				<File Id="1069672804" Language="SFX">
 					<ShortName>411148__etm654__running-in-grass.wav</ShortName>

@@ -142,6 +142,28 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Event Name="Jump" ID="{A00023B6-39E3-40E8-B316-C3F538ECFACE}">
+					<ChildrenList>
+						<Action Name="" ID="{8F261F77-67F1-4FAE-9C87-0E16DC83BCC6}" ShortID="183805034">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump" ID="{41D3166A-F728-46D4-9DBE-F6A20F61B847}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PickUp" ID="{B613450D-86A1-43D2-ADB5-6D1D8706E7EF}">
+					<ChildrenList>
+						<Action Name="" ID="{0692A887-FAA5-4076-8736-65145F9712BE}" ShortID="655775887">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PickUp" ID="{56416C93-9C07-40FA-9017-CE674BD6B288}" WorkUnitID="{AEBAB148-F7DA-4024-AF06-FB8310A13F4B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

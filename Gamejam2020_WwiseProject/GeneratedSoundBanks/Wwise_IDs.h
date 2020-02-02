@@ -15,6 +15,7 @@ namespace AK
     {
         static const AkUniqueID ENVIRONMENT = 1229948536U;
         static const AkUniqueID FOX_VOICE = 2243388319U;
+        static const AkUniqueID JUMP = 3833651337U;
         static const AkUniqueID LEVEL_1 = 1290008369U;
         static const AkUniqueID LEVEL_2 = 1290008370U;
         static const AkUniqueID LEVEL_3 = 1290008371U;
@@ -22,6 +23,7 @@ namespace AK
         static const AkUniqueID LEVEL_5 = 1290008373U;
         static const AkUniqueID LEVEL_6 = 1290008374U;
         static const AkUniqueID OCEAN = 3802555985U;
+        static const AkUniqueID PICKUP = 3978245845U;
         static const AkUniqueID RUN = 712161704U;
     } // namespace EVENTS
 
