@@ -30,6 +30,7 @@ public class PauseController : MonoBehaviour
 
     public void Resume()
     {
+        Debug.Log("Resume!");
         PauseMenuUI.SetActive(false); // make the menu disappear
         Time.timeScale = 1f; // starting time
         //GameIsPaused = false;
