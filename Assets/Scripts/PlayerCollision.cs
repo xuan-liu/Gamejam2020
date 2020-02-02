@@ -56,6 +56,7 @@ public class PlayerCollision : MonoBehaviour
             manager.ChangeIsland(manager.score);
 
             dialogUI.SetActive(true);
+
             manager.ShowStory(manager.score);
             Time.timeScale = 0f;
             GameIsPaused = true;
