@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
-		<ProjectRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/</ProjectRoot>
-		<SourceFilesRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/.cache/Mac/</SourceFilesRoot>
-		<SoundBanksRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ProjectRoot>/Users/Lic/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/Lic/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Lic/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>/Users/yihui/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>/Users/Lic/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles>
@@ -25,21 +25,9 @@
 			<ShortName>474340__pborel__forest-birds1a.wav</ShortName>
 			<Path>SFX/474340__pborel__forest-birds1a_B587EF35.wem</Path>
 		</File>
-		<File Id="470467406" Language="SFX">
-			<ShortName>Fox in the Spring - 3. Spring is Here (full lush).wav</ShortName>
-			<Path>SFX/Fox in the Spring - 3. Spring is Here (full lush)_D79FB2B7.wem</Path>
-		</File>
 		<File Id="515171751" Language="SFX">
 			<ShortName>Desert\427401__imjeax__desert-ambient-loop.wav</ShortName>
 			<Path>SFX/Desert/427401__imjeax__desert-ambient-loop_B587EF35.wem</Path>
-		</File>
-		<File Id="548503344" Language="SFX">
-			<ShortName>Fox in the Spring - 1. Protector (initial state).wav</ShortName>
-			<Path>SFX/Fox in the Spring - 1. Protector (initial state)_D79FB2B7.wem</Path>
-		</File>
-		<File Id="572630697" Language="SFX">
-			<ShortName>Fox in the Spring - 2. On the Way (midium lush).wav</ShortName>
-			<Path>SFX/Fox in the Spring - 2. On the Way (midium lush)_D79FB2B7.wem</Path>
 		</File>
 		<File Id="817944739" Language="SFX">
 			<ShortName>Windy Desert.wav</ShortName>
@@ -71,10 +59,7 @@
 				<File Id="138037646"/>
 				<File Id="282085089"/>
 				<File Id="365483275"/>
-				<File Id="470467406"/>
 				<File Id="515171751"/>
-				<File Id="548503344"/>
-				<File Id="572630697"/>
 				<File Id="817944739"/>
 			</ReferencedStreamedFiles>
 			<IncludedMemoryFiles>
@@ -86,9 +71,13 @@
 					<ShortName>427127__caap__82-perritogimoteafeliz.wav</ShortName>
 					<Path>SFX/427127__caap__82-perritogimoteafeliz_10C4C929.wem</Path>
 				</File>
+				<File Id="28087368" Language="SFX">
+					<ShortName>E-Piano Keys_1.wav</ShortName>
+					<Path>SFX/E-Piano Keys_1_D79FB2B7.wem</Path>
+				</File>
 				<File Id="34948066" Language="SFX">
 					<ShortName>jump-to-grass.wav</ShortName>
-					<Path>SFX/jump-to-grass_A43D394E.wem</Path>
+					<Path>SFX/jump-to-grass_9EAC8189.wem</Path>
 				</File>
 				<File Id="55956683" Language="SFX">
 					<ShortName>427133__caap__74-perritoladrasorprendido.wav</ShortName>
@@ -96,11 +85,15 @@
 				</File>
 				<File Id="91091370" Language="SFX">
 					<ShortName>jump-to-grass.wav</ShortName>
-					<Path>SFX/jump-to-grass_C9890EF0.wem</Path>
+					<Path>SFX/jump-to-grass_3F3FB2AC.wem</Path>
 				</File>
 				<File Id="109231995" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
 					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem</Path>
+				</File>
+				<File Id="159743943" Language="SFX">
+					<ShortName>Autobahn Arp_1.wav</ShortName>
+					<Path>SFX/Autobahn Arp_1_D79FB2B7.wem</Path>
 				</File>
 				<File Id="240197249" Language="SFX">
 					<ShortName>400632__inspectorj__ambience-seaside-waves-close-a.wav</ShortName>
@@ -113,6 +106,10 @@
 				<File Id="254784022" Language="SFX">
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_142A111D.wem</Path>
+				</File>
+				<File Id="259543006" Language="SFX">
+					<ShortName>Strings_1.wav</ShortName>
+					<Path>SFX/Strings_1_D79FB2B7.wem</Path>
 				</File>
 				<File Id="265186300" Language="SFX">
 					<ShortName>427167__caap__15-perritoguautierno.wav</ShortName>
@@ -142,6 +139,14 @@
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_AB229659.wem</Path>
 				</File>
+				<File Id="505718827" Language="SFX">
+					<ShortName>Toys Bells_1.wav</ShortName>
+					<Path>SFX/Toys Bells_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="551380753" Language="SFX">
+					<ShortName>African Drum.wav</ShortName>
+					<Path>SFX/African Drum_D79FB2B7.wem</Path>
+				</File>
 				<File Id="564514119" Language="SFX">
 					<ShortName>411148__etm654__running-in-grass.wav</ShortName>
 					<Path>SFX/411148__etm654__running-in-grass_CE55EE71.wem</Path>
@@ -153,6 +158,10 @@
 				<File Id="653340504" Language="SFX">
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_6EA62789.wem</Path>
+				</File>
+				<File Id="800334971" Language="SFX">
+					<ShortName>Chemistry Set (Water)_1.wav</ShortName>
+					<Path>SFX/Chemistry Set (Water)_1_D79FB2B7.wem</Path>
 				</File>
 				<File Id="818807653" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
@@ -170,13 +179,29 @@
 					<ShortName>Slowing down.wav</ShortName>
 					<Path>SFX/Slowing down_49718417.wem</Path>
 				</File>
+				<File Id="965452409" Language="SFX">
+					<ShortName>Strings_2.wav</ShortName>
+					<Path>SFX/Strings_2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="971256709" Language="SFX">
+					<ShortName>African Drum_2.wav</ShortName>
+					<Path>SFX/African Drum_2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="996620606" Language="SFX">
+					<ShortName>Tin Whistle_1.wav</ShortName>
+					<Path>SFX/Tin Whistle_1_D79FB2B7.wem</Path>
+				</File>
 				<File Id="1028363226" Language="SFX">
 					<ShortName>427145__caap__24-guauperritofeliz.wav</ShortName>
 					<Path>SFX/427145__caap__24-guauperritofeliz_10C4C929.wem</Path>
 				</File>
+				<File Id="1030849744" Language="SFX">
+					<ShortName>Bouncing Balls_1.wav</ShortName>
+					<Path>SFX/Bouncing Balls_1_D79FB2B7.wem</Path>
+				</File>
 				<File Id="1047108433" Language="SFX">
 					<ShortName>141695__copyc4t__levelup.wav</ShortName>
-					<Path>SFX/141695__copyc4t__levelup_8C7C0445.wem</Path>
+					<Path>SFX/141695__copyc4t__levelup_E7E83A2C.wem</Path>
 				</File>
 				<File Id="1069672804" Language="SFX">
 					<ShortName>411148__etm654__running-in-grass.wav</ShortName>

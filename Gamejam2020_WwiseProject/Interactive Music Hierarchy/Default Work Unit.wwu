@@ -1155,7 +1155,7 @@
 								<Property Name="EndPosition" Type="Real64" Value="150204.081632653"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-8</Value>
+										<Value>-9</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -1167,6 +1167,11 @@
 							<ChildrenList>
 								<MusicTrack Name="Music" ID="{B85918E8-FF1E-4514-8CB4-869C7C6C3BF6}" ShortID="21029988">
 									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
 										<Property Name="IsStreamingEnabled" Type="bool">
 											<ValueList>
 												<Value>True</Value>
@@ -1271,6 +1276,11 @@
 								</MusicTrack>
 								<MusicTrack Name="Music 2" ID="{1BF85D40-1AE1-42A0-82C3-208599A21970}" ShortID="979345215">
 									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
 										<Property Name="IsStreamingEnabled" Type="bool">
 											<ValueList>
 												<Value>True</Value>
@@ -1362,6 +1372,11 @@
 								</MusicTrack>
 								<MusicTrack Name="Music 3" ID="{54437EA7-9E84-4FBD-9551-22AD7FCE4FDC}" ShortID="992508122">
 									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
 										<Property Name="IsStreamingEnabled" Type="bool">
 											<ValueList>
 												<Value>True</Value>
@@ -1446,6 +1461,973 @@
 														<Property Name="FadeOutMode" Type="int16" Value="0"/>
 													</PropertyList>
 													<AudioSourceRef Name="Fox in the Spring - 3_ Spring is Here (full lush)" ID="{AD6E26E8-7F46-4941-83B2-E4613F032839}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="African Drum_2" ID="{375D3A67-DE35-4633-A6A6-0F79E8BD6BA5}" ShortID="231152377">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="African Drum_2" ID="{63375DB7-A850-43A8-88D9-9794A123D647}" ShortID="971256709">
+											<Language>SFX</Language>
+											<AudioFile>African Drum_2.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{CC46F8E9-E48D-4E68-90F1-168E448331C0}" ShortID="594304250">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{08D5DF58-4AC4-480A-B3F7-FE055F6E08C1}" ShortID="982318610">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{262CF28F-8C55-45D0-9EC6-85953B57B254}" ShortID="838305522">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-11"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{76EC1D8D-2149-47D4-B764-248E1199FF09}" ShortID="781521496">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{02D7C82C-3858-4608-956E-7A4FDAF5A55C}" ShortID="466677709">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{7300D98F-7082-428F-A1E5-F4BC65032DE9}" ShortID="723331653"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{EC934CBC-21DE-414D-B93C-E3F2BC9FC5C2}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{65947F24-5186-4648-A530-5F56E9499D16}">
+											<ClipList>
+												<MusicClip Name="African Drum_2" ID="{1698B8F8-4F78-4AF4-87F3-649210445553}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="African Drum_2" ID="{63375DB7-A850-43A8-88D9-9794A123D647}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="African Drum" ID="{185EE4FA-6F94-48C9-B639-294D4BE60660}" ShortID="144309046">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="African Drum" ID="{CC655B42-A286-42EA-8513-228B55159A2F}" ShortID="551380753">
+											<Language>SFX</Language>
+											<AudioFile>African Drum.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{2A37E8C9-E79B-4CCC-97D2-538DD0DDE2E3}" ShortID="408345511">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-12"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{C7A6F33C-DAD1-410A-BE45-093B8AB423F5}" ShortID="866715169">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{26FB4FB1-5ACB-4001-BBED-22382131F499}" ShortID="351449929">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{96C6DF75-EC5A-4FF2-BB31-9B554A3CF30E}" ShortID="586716010"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{9EC92C6E-FE93-44B0-AACF-EE537212E057}" ShortID="565469103">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{9FD0BED0-E11D-4559-957E-76C6BEA25E54}" ShortID="386159109">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{4463D3C4-65EE-4D56-8F32-9A8BDB65359E}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{F2A4D8DF-FF58-4AD7-99B9-293EEEFBD387}">
+											<ClipList>
+												<MusicClip Name="African Drum" ID="{86DE7EAC-0AB6-4DCC-AE37-4AD70B1BF323}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="African Drum" ID="{CC655B42-A286-42EA-8513-228B55159A2F}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Autobahn Arp_1" ID="{2A678D46-8B97-4CAF-B992-C4573C65BF5F}" ShortID="350180578">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Autobahn Arp_1" ID="{B1F56AE6-31A4-427D-BE59-04E1D8BD6E7C}" ShortID="159743943">
+											<Language>SFX</Language>
+											<AudioFile>Autobahn Arp_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{6495C9B9-621A-4946-A9C3-DB5A8D7D7A9F}" ShortID="297610833">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-9"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{A2607075-E885-4DEC-9AE6-EFD015F90705}" ShortID="12223988">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{EC4B0D75-8EDC-4F2C-82DE-5FE2DD9EA6E4}" ShortID="804489974"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{B495A6C9-E678-46E7-88C0-27FE8E1C04F1}" ShortID="979128010">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-3"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{478246BB-24ED-4EEA-AED5-EB4F3D5D5CFE}" ShortID="713042554">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{A5B35540-31D5-47B3-8B9B-CC53033EF0F8}" ShortID="418894691"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{3DF870C1-6D37-4264-9C68-9B7E8E8D5E98}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{0BDCC627-EA62-40F8-BCB7-FDDA7DC0455D}">
+											<ClipList>
+												<MusicClip Name="Autobahn Arp_1" ID="{51475B71-4B98-41D7-B043-ADFF5140EC75}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Autobahn Arp_1" ID="{B1F56AE6-31A4-427D-BE59-04E1D8BD6E7C}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Bouncing Balls_1" ID="{1AA23E82-1EC2-4CAF-BEFD-AE8FF007AAA3}" ShortID="558963420">
+									<PropertyList>
+										<Property Name="Highpass" Type="int16">
+											<ValueList>
+												<Value>30</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Bouncing Balls_1" ID="{C3DC4436-977A-451E-8BE5-CBAD41120985}" ShortID="1030849744">
+											<Language>SFX</Language>
+											<AudioFile>Bouncing Balls_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{9BF6B5A9-D2D8-466A-9431-3F2FAA18616D}" ShortID="908383703"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{D1226DF0-D9DD-4F7B-BD06-F40561727652}" ShortID="686227023">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-3"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{BBD249CD-1336-4A58-A8ED-EB47020089F5}" ShortID="781923431"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{0EC4FB23-6415-4DAE-BBF9-0997A78BC8E2}" ShortID="601161643"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{E039E2EA-2E9F-4019-9820-0E3F80CA3601}" ShortID="587586875">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-6"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{85ADC00A-14C0-45FD-998F-AB97872A6A18}" ShortID="956167227"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{68B38E67-557D-4D62-9377-DA35C4AB8455}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{35C17C1A-9BE8-429F-94C9-E773AC33DA44}">
+											<ClipList>
+												<MusicClip Name="Bouncing Balls_1" ID="{8126FD5E-4BB2-48A5-B1E1-FD7FB2FF86BB}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Bouncing Balls_1" ID="{C3DC4436-977A-451E-8BE5-CBAD41120985}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Chemistry Set (Water)_1" ID="{22DE5447-5E90-48FB-BA8F-348E14015AF8}" ShortID="240342268">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Chemistry Set (Water)_1" ID="{4A70C1DA-2B69-49DE-83DF-1C0083746C02}" ShortID="800334971">
+											<Language>SFX</Language>
+											<AudioFile>Chemistry Set (Water)_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{B58FE966-421E-4A54-B45F-160B0DA1AD37}" ShortID="705634446">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{9FA80D03-991F-4275-970A-24DE6B7EE837}" ShortID="483203328">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{1030F9E3-3F95-4234-ADA0-AB224F09C5F2}" ShortID="394398740">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-9"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{73C171C7-9F4A-4A4A-9DEC-B9EA17E2E924}" ShortID="856797687">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{98802C7C-9D9F-442F-A3D5-E23970942457}" ShortID="43922657">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{ECAC7628-3EBD-4D3A-9F3B-AD5EFF3DD475}" ShortID="442952715"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{EED95F00-C5DC-4FD5-8CDD-0C99E8BFF7D7}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{933372D9-54FC-4B4A-9CD6-A8ECBBAAF7BF}">
+											<ClipList>
+												<MusicClip Name="Chemistry Set (Water)_1" ID="{953334EF-D9CE-4271-9BB3-6C2699659BB2}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Chemistry Set (Water)_1" ID="{4A70C1DA-2B69-49DE-83DF-1C0083746C02}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="E-Piano Keys_1" ID="{0E04DB7B-FCE8-410C-B569-1699D5E6647E}" ShortID="1030675974">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="E-Piano Keys_1" ID="{F18C9AA0-C1D0-4FFA-8139-3A1E0AF11064}" ShortID="28087368">
+											<Language>SFX</Language>
+											<AudioFile>E-Piano Keys_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{95A0C604-F279-4BBE-B16B-74D3EF4BEF48}" ShortID="985458221">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-12"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{E5FC4098-0D05-4175-831F-0B8E66EE71BF}" ShortID="159894153">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{F9E3EC19-F9C8-45B5-B710-7C0DDD0A9EE5}" ShortID="549375339">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-3"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{CED619DA-5AC2-4C58-AEC6-D8A88E6E63F2}" ShortID="535266478">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-6"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{AE3AAB2A-0D96-4F27-A081-B86800FAB6D1}" ShortID="266631749">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{E46E2F78-8E42-48BC-AC4E-01F141AE9B78}" ShortID="991220344"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{D61F3815-5CA5-4901-B811-3B884D85FE57}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{62B831EA-852F-4A53-97C3-E8E97BA75800}">
+											<ClipList>
+												<MusicClip Name="E-Piano Keys_1" ID="{FCA8A3D7-40EA-4CF0-9B91-4E5A6E0AF62E}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="E-Piano Keys_1" ID="{F18C9AA0-C1D0-4FFA-8139-3A1E0AF11064}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Strings_1" ID="{291463B3-07C8-401C-9C9C-8725D76E3C9D}" ShortID="1035448130">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Strings_1" ID="{F16FC4C6-15B9-4028-A47D-0E3F0B038B46}" ShortID="259543006">
+											<Language>SFX</Language>
+											<AudioFile>Strings_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{D593CEC1-B47B-48D3-9EB4-FC56563006C6}" ShortID="103681262"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{4A84B0B9-5125-4391-A00F-15E2B0117B70}" ShortID="825838225">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-2"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{7EAAC45C-AFB7-461F-B9E6-280A407D9BA0}" ShortID="382189155"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{C0BA2842-74CE-4950-B146-441A484FFE37}" ShortID="82227434"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{610C6A4B-920A-4CC3-9BD5-CC8030773264}" ShortID="768152924">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-4"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{E0C273E5-5463-457D-A4F8-8FA6ADF9F550}" ShortID="385742570"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{C89EB7AE-B335-45A6-B976-EE0344F31307}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{16CAE66B-CA2A-4527-8EDE-78A4E646DE98}">
+											<ClipList>
+												<MusicClip Name="Strings_1" ID="{53BA1E81-5B00-4A63-8932-B9F55919532A}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Strings_1" ID="{F16FC4C6-15B9-4028-A47D-0E3F0B038B46}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Strings_2" ID="{3374AC96-2B4D-42A5-82F5-680BA0A489E1}" ShortID="98724229">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Strings_2" ID="{CE1F8ACA-6A01-4567-9A6F-7F9F292CA52D}" ShortID="965452409">
+											<Language>SFX</Language>
+											<AudioFile>Strings_2.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{4EAC0DF4-614C-400F-B9EF-F2B10AE37645}" ShortID="161165538"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{17E94902-9C57-403E-9F22-C19647FB76CA}" ShortID="141043484">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-2"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{30486B2A-5074-44E0-AFCF-3FFF4D0DD759}" ShortID="846014456"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{8EC1370E-EF04-42D9-B2B1-E3A005A54387}" ShortID="610982369"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{7EEA5DE2-EAB6-4348-B9A8-73B0AEEA8BE1}" ShortID="621971459">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-4"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{D69673E5-4AD2-4D39-9936-B42AFBEB3B5E}" ShortID="879661415"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{21BBD6B8-B1B7-4FE9-8CDB-E6C5E715B03B}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{C10F745F-6410-4B16-9933-66CB439E4533}">
+											<ClipList>
+												<MusicClip Name="Strings_2" ID="{C6AA5E2D-3735-42E8-8E98-255CCA9052BF}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Strings_2" ID="{CE1F8ACA-6A01-4567-9A6F-7F9F292CA52D}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Strings_4" ID="{15EBD091-7CA4-4B85-9F62-9014286C097A}" ShortID="7084143">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Strings_4" ID="{8C4E60BA-919E-4F64-8339-FBB96A89F558}" ShortID="200698449">
+											<Language>SFX</Language>
+											<AudioFile>Strings_4.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{BEA128CC-F571-470A-A943-A8AAEA3238F8}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{E74A83E6-9CE6-4C17-910C-79B57369FF54}">
+											<ClipList>
+												<MusicClip Name="Strings_4" ID="{33AF1165-F6BB-4DC9-8B7B-B59197EB9C1E}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Strings_4" ID="{8C4E60BA-919E-4F64-8339-FBB96A89F558}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Strings" ID="{39D7F102-CA16-4980-A986-E9457D636B4A}" ShortID="81042702">
+									<PropertyList>
+										<Property Name="Inclusion" Type="bool">
+											<ValueList>
+												<Value>False</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Strings" ID="{B7858BCA-0FB1-41E9-914E-2D743189DCFF}" ShortID="137715250">
+											<Language>SFX</Language>
+											<AudioFile>Strings.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{591CEAB4-D6B5-483B-8E0E-92A68E905A45}" ShortID="431184578"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{F8EA6403-D1F0-4C58-A035-8583AD218ABA}" ShortID="1067415952">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-2"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{64B221EE-CADB-4715-A74F-7E45732E406B}" ShortID="556386703"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{17AF51A2-7E6C-4B50-A756-59BE9A0FDFC1}" ShortID="698325885"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{5E009DBF-3698-4BC9-AF13-121D187625AA}" ShortID="792167197">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-4"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{1CEBEFC9-A4F7-4017-96CB-F0D590DB96F1}" ShortID="613384941"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{7931AB32-4DF5-49BE-B38E-556343F590CC}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{91FF5B2E-8130-4AB0-B4FB-96BECA853E65}">
+											<ClipList>
+												<MusicClip Name="Strings" ID="{CC09175A-D8BB-4046-869A-B53C20B614F9}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Strings" ID="{B7858BCA-0FB1-41E9-914E-2D743189DCFF}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Tin Whistle_1" ID="{B7DC7D62-491F-4A38-8676-AF1BA3DB7A69}" ShortID="230030100">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-3</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Tin Whistle_1" ID="{674A1BFD-2690-4954-B67E-0DAC57374CBA}" ShortID="996620606">
+											<Language>SFX</Language>
+											<AudioFile>Tin Whistle_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{07641707-91E1-49CA-B0E8-6CB7E4E08AF3}" ShortID="572129290"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{F40E021B-51E3-4EF3-89D4-577F29EDF9F8}" ShortID="1000841800">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-3"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{9C3F3538-F832-4ACA-A492-DF916D4E9F15}" ShortID="981482229"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{13087CCE-2BDF-4888-88F1-448BDF4B7199}" ShortID="1058520215"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{D19CC81B-5D1E-4D7C-9E34-70A596C5AD4A}" ShortID="782094910">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{7968AC76-983C-40B1-AFDD-80ED43F985A2}" ShortID="508841868"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{8CDB8363-7DC7-46E5-A5E1-646175F3EA4F}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{91957F9F-2746-4FA5-8349-9DA58AE54020}">
+											<ClipList>
+												<MusicClip Name="Tin Whistle_1" ID="{E76F4B9A-12E3-422A-93F8-ACFA7DDF1406}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Tin Whistle_1" ID="{674A1BFD-2690-4954-B67E-0DAC57374CBA}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="Toys Bells_1" ID="{6F2D3C61-4189-47F0-B8F3-6DD915690290}" ShortID="766935618">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Toys Bells_1" ID="{4B5722C9-0D44-46C4-84B8-D32801DFC2EA}" ShortID="505718827">
+											<Language>SFX</Language>
+											<AudioFile>Toys Bells_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+												<CustomState Name="" ID="{FD71BB56-F702-40A9-A3D7-B2600D98655F}" ShortID="558605195">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+												<CustomState Name="" ID="{48A47323-E619-4DCA-8FDD-E2EC9B257160}" ShortID="125999809">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+												<CustomState Name="" ID="{53E157E6-0160-4B02-A425-178152268364}" ShortID="572362642">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-4"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+												<CustomState Name="" ID="{3FABD2F0-307A-4994-A5B9-FA54D8EB96F8}" ShortID="699299140">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-12"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+												<CustomState Name="" ID="{2C69A24A-CEAB-42CD-9A65-3FC27C3011D7}" ShortID="550441468">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
+													</PropertyList>
+												</CustomState>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+												<CustomState Name="" ID="{03A3291C-9A63-464D-9EE1-128EF829B271}" ShortID="244599186"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{2EB5C51F-D738-4DDE-8643-85B7EBC27D76}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{58C3AF92-5543-4274-8421-AB7CA4454961}">
+											<ClipList>
+												<MusicClip Name="Toys Bells_1" ID="{42C645F1-4FB9-4D98-B157-43B9405CB0C3}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="30000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="Toys Bells_1" ID="{4B5722C9-0D44-46C4-84B8-D32801DFC2EA}"/>
 												</MusicClip>
 											</ClipList>
 										</MusicTrackSequence>

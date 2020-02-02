@@ -5,7 +5,7 @@
 			<ChildrenList>
 				<StateGroup Name="Music_Layers" ID="{6BBF7A9A-86D2-4929-AA7F-4BB8755B5ACA}">
 					<PropertyList>
-						<Property Name="DefaultTransitionTime" Type="Real64" Value="1.5"/>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="3"/>
 					</PropertyList>
 					<ChildrenList>
 						<State Name="None" ID="{E2042593-F358-45CC-9A6D-F2E2E1EDA08C}"/>

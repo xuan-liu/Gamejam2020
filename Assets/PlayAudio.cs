@@ -23,7 +23,7 @@ public class PlayAudio : MonoBehaviour
     public static PlayAudio instance;
 
 
-    Public void PlayJump()
+    public void PlayJump()
     {
         Jump.Post(gameObject);
     }
@@ -39,15 +39,16 @@ public class PlayAudio : MonoBehaviour
     {
         //Singleton
         instance = this;
+        SLevel1.SetValue();
+
     }
 
 
 
-   // Start is called before the first frame update
+    // Start is called before the first frame update
     void Start()
     {
         Environment.Post(gameObject);
-        SLevel1.SetValue();
     }
 
     // Update is called once per frame
