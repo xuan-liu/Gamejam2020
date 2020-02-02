@@ -23,6 +23,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
         [SerializeField] private CurveControlledBob m_HeadBob = new CurveControlledBob();
         [SerializeField] private LerpControlledBob m_JumpBob = new LerpControlledBob();
         [SerializeField] private float m_StepInterval;
+        Animator m_Animator;
+
 
         private Camera m_Camera;
         private bool m_Jump;
@@ -49,6 +51,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_NextStep = m_StepCycle / 2f;
             m_Jumping = false;
             m_MouseLook.Init(transform, m_Camera.transform);
+            m_Animator = GetComponentInChildren<Animator>();
         }
 
 
@@ -60,6 +63,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             if (!m_Jump)
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+                //m_Animator.SetTrigger("Jump");
             }
 
             if (!m_PreviouslyGrounded && m_CharacterController.isGrounded)
@@ -75,7 +79,24 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
 
-            
+            if(m_Jump)
+            {
+                m_Animator.SetTrigger("Jump");
+            }
+
+            //m_Animator.SetBool("Walk", );
+
+            if(m_MoveDir == new Vector3(0, -10, 0))
+            {
+                m_Animator.SetBool("Walk", false);
+            }
+            else
+            {
+                m_Animator.SetBool("Walk", true);
+            }
+
+
+            Debug.Log(m_MoveDir);
 
         }
 
@@ -180,6 +201,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
             float vertical = CrossPlatformInputManager.GetAxis("Vertical");
 
             bool waswalking = m_IsWalking;
+
+            //m_Animator.SetBool("Walk", m_IsWalking);
 
 #if !MOBILE_INPUT
             // On standalone builds, walk/run speed is modified by a key press.
