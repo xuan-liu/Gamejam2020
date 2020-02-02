@@ -4,9 +4,16 @@
 		<UserProjectSettings Name="" ID="{83698AB6-C582-4845-BD9A-A3FB1B55EDF0}">
 			<PropertyList>
 				<Property Name="AudioFilesImporter\Path" Type="string" Value="Y:\Documents\Fox Sound\Fox Sound"/>
+				<Property Name="Event Action List\{012CCFD2-4F04-424B-803F-D23C1688F1ED}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{26D8FC3C-1A1A-4A3A-BFC3-3DFC160C12D2}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{331736C2-92CA-4F18-8D22-311E8E82280F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{6B62CBFE-E0AF-4603-8925-51ACFA447139}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{6B93B0D4-C415-44DF-9746-41E68D5B2DD3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{75606AED-CD6D-41BA-B0F6-015E2D025CBD}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A89D2237-3583-4FB8-9C68-93F22F26EAC4}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A94222B2-1A83-46B3-978E-2397BDD89E0F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{A9F4CBFA-838B-4F49-9549-737D86483358}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E3FAE965-D163-4E80-B6D5-4A517199848F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -28,8 +35,8 @@
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="Fltgr5btpUqY21cLTFBTPg=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
 				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="xequjdB+CEm0F/aWvjvIQwH/////////9ppWxhSh6UCBfYHSQyaoEAH/////////"/>
-				<Property Name="Interactive Music\x64_{245E7995-1991-4AC9-947C-5A832F0EB667} - SegmentEditorZoomInfo" Type="string" Value="0GBnk/CWvD8AAAAAAADwPwAAAAAAIGRAAAAAAAAA8D8AAAAAAAAAAAAAAAAAACBA"/>
-				<Property Name="Interactive Music\x64_{DC5EF3F6-C0ED-4A59-8780-05A5BE1C9AC9} - SegmentEditorZoomInfo" Type="string" Value="mpmZmZmZuT8AAAAAAADwPwAAAAAAIGRAAAAAAAAA8D8AAAAAAAAAAAAAAAAA0IBA"/>
+				<Property Name="Interactive Music\x64_{245E7995-1991-4AC9-947C-5A832F0EB667} - SegmentEditorZoomInfo" Type="string" Value="mpmZmZmZuT8AAAAAAADwPwAAAAAAIGRAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
+				<Property Name="Interactive Music\x64_{DC5EF3F6-C0ED-4A59-8780-05A5BE1C9AC9} - SegmentEditorZoomInfo" Type="string" Value="mpmZmZmZuT8AAAAAAADwPwAAAAAAIGRAAAAAAAAA8D8AAAAAAAAAAAAAAAAAcHpA"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="Mixing Desk\LastSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
@@ -78,7 +85,9 @@
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="EbKDFPVcGE2NZsJDdoL6rA=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
+				<Property Name="SettingsUserOverride" Type="bool" Value="True"/>
 				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="EbKDFPVcGE2NZsJDdoL6rA=="/>
+				<Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True"/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>

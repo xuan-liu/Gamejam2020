@@ -55,6 +55,13 @@
 			<IncludedEvents>
 				<Event Id="1229948536" Name="Environment" ObjectPath="\Events\Default Work Unit\Environment"/>
 				<Event Id="2243388319" Name="Fox_Voice" ObjectPath="\Events\Default Work Unit\Fox_Voice"/>
+				<Event Id="1290008369" Name="Level_1" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_1"/>
+				<Event Id="1290008370" Name="Level_2" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_2"/>
+				<Event Id="1290008371" Name="Level_3" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_3"/>
+				<Event Id="1290008372" Name="Level_4" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_4"/>
+				<Event Id="1290008373" Name="Level_5" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_5"/>
+				<Event Id="1290008374" Name="Level_6" ObjectPath="\Events\Default Work Unit\SetEnvironmentLevel\Level_6"/>
+				<Event Id="3802555985" Name="Ocean" ObjectPath="\Events\Default Work Unit\Ocean"/>
 				<Event Id="712161704" Name="Run" ObjectPath="\Events\Default Work Unit\Run"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
@@ -84,6 +91,10 @@
 				<File Id="109231995" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
 					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem</Path>
+				</File>
+				<File Id="240197249" Language="SFX">
+					<ShortName>400632__inspectorj__ambience-seaside-waves-close-a.wav</ShortName>
+					<Path>SFX/400632__inspectorj__ambience-seaside-waves-close-a_49718417.wem</Path>
 				</File>
 				<File Id="243927064" Language="SFX">
 					<ShortName>427117__caap__06-perritogimoteando.wav</ShortName>

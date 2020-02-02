@@ -712,6 +712,42 @@
 						</GroupingList>
 					</GroupingInfo>
 				</SwitchContainer>
+				<Sound Name="Ocean" ID="{0DB37072-F349-4AD7-A37B-82227756B3BB}" ShortID="852515948">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>22</Value>
+							</ValueList>
+						</Property>
+						<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="75"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-6</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="New Attenuation" ID="{6EF2584A-EA9F-4E47-8314-6B3060FBFF30}" WorkUnitID="{9F198A15-6465-4A40-8A03-84B0EF36DA0A}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Vorbis Auto Detect High" ID="{6F6A99BE-4FD1-49D3-89AF-54BE30CA1588}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{2EB6DDCF-1D4D-4131-8079-92D33FFBA93C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="400632__inspectorj__ambience-seaside-waves-close-a" ID="{1E617A00-FD7D-497B-8370-B6433890965A}" ShortID="240197249">
+							<Language>SFX</Language>
+							<AudioFile>400632__inspectorj__ambience-seaside-waves-close-a.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="400632__inspectorj__ambience-seaside-waves-close-a" ID="{1E617A00-FD7D-497B-8370-B6433890965A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

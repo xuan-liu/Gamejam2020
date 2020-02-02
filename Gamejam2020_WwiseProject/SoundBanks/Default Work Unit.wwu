@@ -5,9 +5,17 @@
 			<ChildrenList>
 				<SoundBank Name="Fox" ID="{AF605B16-ED96-4AA5-98DB-570B4C50533E}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Level_5" ID="{75606AED-CD6D-41BA-B0F6-015E2D025CBD}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Ocean" ID="{012CCFD2-4F04-424B-803F-D23C1688F1ED}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SetEnvironmentLevel" ID="{4D3E969A-7D86-43CC-B8F7-5102F46022DB}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Level_3" ID="{6B93B0D4-C415-44DF-9746-41E68D5B2DD3}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Fox_Voice" ID="{6B62CBFE-E0AF-4603-8925-51ACFA447139}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Level_1" ID="{A94222B2-1A83-46B3-978E-2397BDD89E0F}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Level_4" ID="{26D8FC3C-1A1A-4A3A-BFC3-3DFC160C12D2}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Level_2" ID="{E3FAE965-D163-4E80-B6D5-4A517199848F}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Environment" ID="{331736C2-92CA-4F18-8D22-311E8E82280F}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Run" ID="{A9F4CBFA-838B-4F49-9549-737D86483358}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Level_6" ID="{A89D2237-3583-4FB8-9C68-93F22F26EAC4}" WorkUnitID="{634055C5-BF57-45F4-9CB8-9AFAB1B47DBE}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

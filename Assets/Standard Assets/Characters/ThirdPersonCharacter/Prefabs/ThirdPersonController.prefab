@@ -149,6 +149,49 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb9b02fe5a2804a1a97817d1f3da34b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Environment:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 995f5dacc6bb647d6a1c0f5911c963c3,
+      type: 2}
+  EnvironmentLevel: 0
+  ELevel1:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: e52bf9c0af6ec48c583da0e87542c836,
+      type: 2}
+  ELevel2:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 4dd9cc0a81ec949c68ad653936d19fb0,
+      type: 2}
+  ELevel3:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: eb0a160e7ba2d442981fbacfc13c8b8c,
+      type: 2}
+  ELevel4:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: e05df60bf538d4d81bcd07c444b69125,
+      type: 2}
+  ELevel5:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 29f5abc4844344651b805cad175a6185,
+      type: 2}
+  ELevel6:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: fc70c2a4fe0f14a7d86c4b547e2cba94,
+      type: 2}
+  SLevel1:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: bfc72c255fba54a15a80863ac0d6b693,
+      type: 2}
 --- !u!114 &966931637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -156,19 +199,19 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149790}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed843f71ba51347ad82b25b2795a6c45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  triggerList: f7e1664c
+  triggerList: ae8d9d44
   useOtherObject: 0
   data:
     idInternal: 0
     valueGuidInternal: 
     groupIdInternal: 0
     groupGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 76526a2050c044b1da88ff110aedc473,
+    WwiseObjectReference: {fileID: 11400000, guid: bfc72c255fba54a15a80863ac0d6b693,
       type: 2}
   valueIdInternal: 0
   groupIdInternal: 0
@@ -181,7 +224,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149790}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 94292a9d739a744ec972fa80e92e6462, type: 3}
   m_Name: 
@@ -203,7 +246,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149790}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 80f85861508e848599ab7d499a405d74, type: 3}
   m_Name: 

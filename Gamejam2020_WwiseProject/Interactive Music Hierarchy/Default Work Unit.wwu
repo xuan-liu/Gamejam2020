@@ -7,7 +7,7 @@
 					<PropertyList>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>9</Value>
+								<Value>3</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -23,6 +23,11 @@
 						<MusicSegment Name="Ambiences" ID="{DC5EF3F6-C0ED-4A59-8780-05A5BE1C9AC9}" ShortID="299170954">
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="362530.275908169"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>3</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -522,7 +527,7 @@
 										</MusicTrackSequence>
 									</SequenceList>
 								</MusicTrack>
-								<MusicTrack Name="0 flies and leaves" ID="{A67809A9-60EB-49AD-A24F-11F1A463D667}" ShortID="933024731">
+								<MusicTrack Name="1 flies and leaves" ID="{A67809A9-60EB-49AD-A24F-11F1A463D667}" ShortID="933024731">
 									<PropertyList>
 										<Property Name="IsStreamingEnabled" Type="bool">
 											<ValueList>
@@ -531,7 +536,7 @@
 										</Property>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
-												<Value>-3</Value>
+												<Value>-4</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -557,7 +562,7 @@
 												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
 												<CustomState Name="" ID="{93B61408-A65A-4B1E-B2E4-6AA19A25A17C}" ShortID="105677396">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-44"/>
+														<Property Name="Volume" Type="Real64" Value="-24"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -565,7 +570,7 @@
 												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
 												<CustomState Name="" ID="{A2AE08F7-3122-4076-94C5-8E7DDF258995}" ShortID="642307839">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-22"/>
+														<Property Name="Volume" Type="Real64" Value="-5"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -581,7 +586,7 @@
 												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
 												<CustomState Name="" ID="{E33D76DA-9E70-4F77-9B6E-5EDBBC97D815}" ShortID="1047877250">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-108"/>
+														<Property Name="Volume" Type="Real64" Value="-44"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -589,7 +594,7 @@
 												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
 												<CustomState Name="" ID="{2B4465A3-2159-49D6-BAC5-9AB90D068C2B}" ShortID="255549599">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-8"/>
+														<Property Name="Volume" Type="Real64" Value="-22"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -685,8 +690,13 @@
 										</MusicTrackSequence>
 									</SequenceList>
 								</MusicTrack>
-								<MusicTrack Name="1 Windy Desert" ID="{F7F4D99A-56D4-407D-B6D8-CCA6E5905FC7}" ShortID="314600858">
+								<MusicTrack Name="0 Windy Desert" ID="{F7F4D99A-56D4-407D-B6D8-CCA6E5905FC7}" ShortID="314600858">
 									<PropertyList>
+										<Property Name="Highpass" Type="int16">
+											<ValueList>
+												<Value>17</Value>
+											</ValueList>
+										</Property>
 										<Property Name="IsStreamingEnabled" Type="bool">
 											<ValueList>
 												<Value>True</Value>
@@ -720,13 +730,17 @@
 												<StateRef Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
 												<CustomState Name="" ID="{E1F66BDE-B741-44E5-8741-A2C842ED9C8D}" ShortID="106975974">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-22"/>
+														<Property Name="Volume" Type="Real64" Value="-44"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
 											<CustomState>
 												<StateRef Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
-												<CustomState Name="" ID="{8AF7E769-1CD3-46AC-AD68-632717643E50}" ShortID="117331590"/>
+												<CustomState Name="" ID="{8AF7E769-1CD3-46AC-AD68-632717643E50}" ShortID="117331590">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-22"/>
+													</PropertyList>
+												</CustomState>
 											</CustomState>
 											<CustomState>
 												<StateRef Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
@@ -740,7 +754,7 @@
 												<StateRef Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
 												<CustomState Name="" ID="{DEB08F21-0489-46BB-BB21-762B91DA9961}" ShortID="192083453">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-44"/>
+														<Property Name="Volume" Type="Real64" Value="-108"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -748,7 +762,7 @@
 												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
 												<CustomState Name="" ID="{B4C08383-5A2B-48AF-99E5-84F537D36F78}" ShortID="943394510">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-24"/>
+														<Property Name="Volume" Type="Real64" Value="-8"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
@@ -1115,6 +1129,18 @@
 					</Playlist>
 				</MusicPlaylistContainer>
 				<MusicPlaylistContainer Name="Music" ID="{CBC8AB43-F940-4C9C-AD35-D2ED9334F90E}" ShortID="411919131">
+					<PropertyList>
+						<Property Name="Lowpass" Type="int16">
+							<ValueList>
+								<Value>30</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-3</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{04A2A310-2B84-4F81-A8CB-82DA6760841A}"/>
