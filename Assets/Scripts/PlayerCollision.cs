@@ -22,6 +22,7 @@ public class PlayerCollision : MonoBehaviour
     // Start is called before the first frame update
     private void OnCollisionEnter(Collision collision)
     {
+        Debug.Log("hit something!");
         if (collision.collider.CompareTag("Items"))
         {
             //Step 1: print out to console what happens in this if statement
@@ -44,6 +45,11 @@ public class PlayerCollision : MonoBehaviour
         else if (collision.collider.CompareTag("Finish"))
         {
             manager.ResetToStart();
+        }
+        else if (collision.collider.CompareTag("DisappearPlatform"))
+        {
+            Debug.Log("hit a DisappearPlatform!");
+            Destroy(collision.gameObject); //delete what we collided with. The cube will disappear
         }
     }
 
