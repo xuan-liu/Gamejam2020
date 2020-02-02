@@ -152,12 +152,15 @@ public class GameManager : MonoBehaviour
         {
             case 0:
                 firstIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", firstTextures[j]);
+                PlayAudio.instance.PlayTexture1();
                 break;
             case 1:
                 secondIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", secondTextures[j]);
+                PlayAudio.instance.PlayTexture2();
                 break;
             case 2:
                 thirdIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", thirdTextures[j]);
+                PlayAudio.instance.PlayTexture3();
                 break;
         }
     }
