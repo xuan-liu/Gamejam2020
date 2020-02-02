@@ -18,6 +18,8 @@ public class PlayAudio : MonoBehaviour
 
     public AK.Wwise.State SLevel1;
 
+
+    //Singleton
     public static PlayAudio instance;
 
 
@@ -27,6 +29,10 @@ public class PlayAudio : MonoBehaviour
     }
 
     //public AK.Wwise.Event Envrionment;
+
+
+
+
 
 
     private void Awake()
