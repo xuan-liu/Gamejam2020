@@ -74,6 +74,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
+
+            
+
         }
 
 
@@ -116,7 +119,16 @@ namespace UnityStandardAssets.Characters.FirstPerson
             UpdateCameraPosition(speed);
 
             m_MouseLook.UpdateCursorLock();
+
+
+
+            
+
+
         }
+
+
+
 
 
         private void ProgressStepCycle(float speed)
