@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Splash Scene.unity
     guid: bd98aadb4a7c14f6692d53ce8a33e15a
   - enabled: 1
-    path: Assets/Scenes/FoxMovement.unity
-    guid: bc7a39caf9f0c3b4798e510f0c93819c
+    path: Assets/Scenes/Final.unity
+    guid: 9c9df7ccbf0a44c3f8a37c77765b67ab
   m_configObjects: {}

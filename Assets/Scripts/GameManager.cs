@@ -26,6 +26,9 @@ public class GameManager : MonoBehaviour
     public bool resetOneTime = false;
     public int score = 0;
 
+    public Text scoreText;
+    public Image endImage;
+
     public const int scoreToYellowFirst = 3;
     public const int scoreToSecondIsland = 6;
     public const int scoreToYellowSecond = 9;
@@ -78,10 +81,15 @@ public class GameManager : MonoBehaviour
             secondIsland.gameObject.SetActive(true);
         }
 
-
-
+        Invoke("Ending", 5f);
+        
     }
 
+
+    public void Ending()
+    {
+        endImage.gameObject.SetActive(true);
+    }
 
     IEnumerator PlatformFallingIE(GameObject platform, Transform end)
     {
@@ -135,7 +143,7 @@ public class GameManager : MonoBehaviour
     {
         if (score < stories.Length)
         {
-            text.text = stories[score];
+            text.text = stories[score + 1];
         }
         else
             Debug.LogError("score out of story length!");
@@ -158,14 +166,19 @@ public class GameManager : MonoBehaviour
             case 0:
                 firstIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", firstTextures[j]);
                 PlayAudio.instance.PlayTexture1();
+                PlayAudio.instance.PlaySad();
                 break;
             case 1:
                 secondIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", secondTextures[j]);
                 PlayAudio.instance.PlayTexture2();
+                PlayAudio.instance.PlayHappy();
+
                 break;
             case 2:
                 thirdIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", thirdTextures[j]);
                 PlayAudio.instance.PlayTexture3();
+                PlayAudio.instance.PlayHappy();
+
                 break;
         }
     }
@@ -183,9 +196,7 @@ public class GameManager : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-
-
+    {        
         if (player.transform.position.y > finish1.position.y)
         {
             if (level == 0 && finishOneTime == false)

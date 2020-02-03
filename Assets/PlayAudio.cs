@@ -14,6 +14,9 @@ public class PlayAudio : MonoBehaviour
     public AK.Wwise.Event ELevel5;
     public AK.Wwise.Event ELevel6;
     public AK.Wwise.Event Jump;
+    public AK.Wwise.Switch Happy;
+    public AK.Wwise.Switch Sad;
+
 
 
 
@@ -24,9 +27,15 @@ public class PlayAudio : MonoBehaviour
     //Singleton
     public static PlayAudio instance;
 
+    public void PlaySad()
+    {
+        Sad.SetValue(gameObject);
+    }
 
-
-
+    public void PlayHappy()
+    {
+        Happy.SetValue(gameObject);
+    }
 
 
     public void PlayJump()

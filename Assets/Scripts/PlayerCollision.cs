@@ -53,6 +53,7 @@ public class PlayerCollision : MonoBehaviour
             //Step 1: print out to console what happens in this if statement
             Debug.Log("hit a cube! generate a dialog");
             manager.score++;
+            manager.scoreText.text = manager.score.ToString() + "/5 Memories";
             manager.ChangeIsland(manager.score);
 
             dialogUI.SetActive(true);
