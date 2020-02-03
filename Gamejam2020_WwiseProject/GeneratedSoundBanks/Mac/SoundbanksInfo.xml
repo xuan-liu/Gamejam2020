@@ -8,32 +8,7 @@
 		<ExternalSourcesOutputRoot>/Users/Lic/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/GitHub/Gamejam2020/Gamejam2020_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
-	<StreamedFiles>
-		<File Id="127469144" Language="SFX">
-			<ShortName>243617__mrauralization__windy-forest.wav</ShortName>
-			<Path>SFX/243617__mrauralization__windy-forest_B587EF35.wem</Path>
-		</File>
-		<File Id="138037646" Language="SFX">
-			<ShortName>flies and leaves.wav</ShortName>
-			<Path>SFX/flies and leaves_B587EF35.wem</Path>
-		</File>
-		<File Id="282085089" Language="SFX">
-			<ShortName>Desert with Creatures.wav</ShortName>
-			<Path>SFX/Desert with Creatures_B587EF35.wem</Path>
-		</File>
-		<File Id="365483275" Language="SFX">
-			<ShortName>474340__pborel__forest-birds1a.wav</ShortName>
-			<Path>SFX/474340__pborel__forest-birds1a_B587EF35.wem</Path>
-		</File>
-		<File Id="515171751" Language="SFX">
-			<ShortName>Desert\427401__imjeax__desert-ambient-loop.wav</ShortName>
-			<Path>SFX/Desert/427401__imjeax__desert-ambient-loop_B587EF35.wem</Path>
-		</File>
-		<File Id="817944739" Language="SFX">
-			<ShortName>Windy Desert.wav</ShortName>
-			<Path>SFX/Windy Desert_B587EF35.wem</Path>
-		</File>
-	</StreamedFiles>
+	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
 		<SoundBank Id="1083137540" Language="SFX">
@@ -54,14 +29,6 @@
 				<Event Id="3978245845" Name="PickUp" ObjectPath="\Events\Default Work Unit\PickUp"/>
 				<Event Id="712161704" Name="Run" ObjectPath="\Events\Default Work Unit\Run"/>
 			</IncludedEvents>
-			<ReferencedStreamedFiles>
-				<File Id="127469144"/>
-				<File Id="138037646"/>
-				<File Id="282085089"/>
-				<File Id="365483275"/>
-				<File Id="515171751"/>
-				<File Id="817944739"/>
-			</ReferencedStreamedFiles>
 			<IncludedMemoryFiles>
 				<File Id="1348889" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
@@ -90,6 +57,14 @@
 				<File Id="109231995" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>
 					<Path>SFX/491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem</Path>
+				</File>
+				<File Id="127469144" Language="SFX">
+					<ShortName>243617__mrauralization__windy-forest.wav</ShortName>
+					<Path>SFX/243617__mrauralization__windy-forest_B587EF35.wem</Path>
+				</File>
+				<File Id="138037646" Language="SFX">
+					<ShortName>flies and leaves.wav</ShortName>
+					<Path>SFX/flies and leaves_B587EF35.wem</Path>
 				</File>
 				<File Id="159743943" Language="SFX">
 					<ShortName>Autobahn Arp_1.wav</ShortName>
@@ -123,9 +98,17 @@
 					<ShortName>427180__caap__43-perritoselamenta.wav</ShortName>
 					<Path>SFX/427180__caap__43-perritoselamenta_10C4C929.wem</Path>
 				</File>
+				<File Id="282085089" Language="SFX">
+					<ShortName>Desert with Creatures.wav</ShortName>
+					<Path>SFX/Desert with Creatures_B587EF35.wem</Path>
+				</File>
 				<File Id="310542485" Language="SFX">
 					<ShortName>Sand Walking.wav</ShortName>
 					<Path>SFX/Sand Walking_A513D3B4.wem</Path>
+				</File>
+				<File Id="365483275" Language="SFX">
+					<ShortName>474340__pborel__forest-birds1a.wav</ShortName>
+					<Path>SFX/474340__pborel__forest-birds1a_B587EF35.wem</Path>
 				</File>
 				<File Id="460140108" Language="SFX">
 					<ShortName>Jump off to grass.wav</ShortName>
@@ -142,6 +125,10 @@
 				<File Id="505718827" Language="SFX">
 					<ShortName>Toys Bells_1.wav</ShortName>
 					<Path>SFX/Toys Bells_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="515171751" Language="SFX">
+					<ShortName>Desert\427401__imjeax__desert-ambient-loop.wav</ShortName>
+					<Path>SFX/Desert/427401__imjeax__desert-ambient-loop_B587EF35.wem</Path>
 				</File>
 				<File Id="551380753" Language="SFX">
 					<ShortName>African Drum.wav</ShortName>
@@ -162,6 +149,10 @@
 				<File Id="800334971" Language="SFX">
 					<ShortName>Chemistry Set (Water)_1.wav</ShortName>
 					<Path>SFX/Chemistry Set (Water)_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="817944739" Language="SFX">
+					<ShortName>Windy Desert.wav</ShortName>
+					<Path>SFX/Windy Desert_B587EF35.wem</Path>
 				</File>
 				<File Id="818807653" Language="SFX">
 					<ShortName>491485__fabianacarmonas__29pasos-corriendo-en-cesped.wav</ShortName>

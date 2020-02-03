@@ -6,7 +6,7 @@ public class PlayAudio : MonoBehaviour
 {
     public AK.Wwise.Event Environment;
 
-    [SerializeField] int EnvironmentLevel = 0;
+    [SerializeField] public int Score = 0;
     public AK.Wwise.Event ELevel1;
     public AK.Wwise.Event ELevel2;
     public AK.Wwise.Event ELevel3;
@@ -16,11 +16,17 @@ public class PlayAudio : MonoBehaviour
     public AK.Wwise.Event Jump;
 
 
+
     public AK.Wwise.State SLevel1;
+
 
 
     //Singleton
     public static PlayAudio instance;
+
+
+
+
 
 
     public void PlayJump()
@@ -31,8 +37,27 @@ public class PlayAudio : MonoBehaviour
     //public AK.Wwise.Event Envrionment;
 
 
+    public void PlayTexture1()
+    {
+        if (Score <= 0) ELevel1.Post(gameObject);
+        if (Score >= 0 && Score < 100) ELevel1.Post(gameObject);
+        if (Score >= 100 && Score < 200) ELevel2.Post(gameObject);
+    }
 
 
+    public void PlayTexture2()
+    {
+        if (Score >= 200 && Score < 300) ELevel3.Post(gameObject);
+        if (Score >= 300 && Score < 400) ELevel4.Post(gameObject);
+    }
+
+
+    public void PlayTexture3()
+    {
+        if (Score >= 400 && Score < 500) ELevel5.Post(gameObject);
+        if (Score >= 500 && Score < 600) ELevel6.Post(gameObject);
+        if (Score >= 600) ELevel6.Post(gameObject);
+    }
 
 
     private void Awake()
@@ -54,16 +79,6 @@ public class PlayAudio : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (EnvironmentLevel <= 0) ELevel1.Post(gameObject);
-
-        if (EnvironmentLevel >= 0 && EnvironmentLevel < 100) ELevel1.Post(gameObject);
-        if (EnvironmentLevel >= 100 && EnvironmentLevel < 200) ELevel2.Post(gameObject);
-        if (EnvironmentLevel >= 200 && EnvironmentLevel < 300) ELevel3.Post(gameObject);
-        if (EnvironmentLevel >= 300 && EnvironmentLevel < 400) ELevel4.Post(gameObject);
-        if (EnvironmentLevel >= 400 && EnvironmentLevel < 500) ELevel5.Post(gameObject);
-        if (EnvironmentLevel >= 500 && EnvironmentLevel < 600) ELevel6.Post(gameObject);
-
-        if (EnvironmentLevel >= 600) ELevel6.Post(gameObject);
-
+ 
     }
 }

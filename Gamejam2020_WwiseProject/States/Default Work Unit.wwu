@@ -16,6 +16,44 @@
 						<State Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
 						<State Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
 					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="None" ID="{E2042593-F358-45CC-9A6D-F2E2E1EDA08C}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="State_2" ID="{A02A884B-323D-40A2-BF88-779BE53D6F9A}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="State_3" ID="{B3BC0C10-CA1B-4009-BF89-70413B9C67DE}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="State_4" ID="{CB9478AF-8902-4CE4-AE57-CE9B6227BE3C}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="State_5" ID="{2970CB72-DE5B-45C7-A691-EC66F4DDAEEC}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="State_6" ID="{488647DF-B832-4F5E-9B18-43C7949B3830}"/>
+							<EndState Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
 				</StateGroup>
 			</ChildrenList>
 		</WorkUnit>
