@@ -23,11 +23,6 @@
 						<MusicSegment Name="Ambiences" ID="{DC5EF3F6-C0ED-4A59-8780-05A5BE1C9AC9}" ShortID="299170954">
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="362530.275908169"/>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>3</Value>
-									</ValueList>
-								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -1118,7 +1113,7 @@
 								<Property Name="EndPosition" Type="Real64" Value="150204.081632653"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-5</Value>
+										<Value>-2</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
