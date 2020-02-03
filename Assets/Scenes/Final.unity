@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 8900000, guid: a7bed68887a07e34394d4191b3081359, type: 3}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.24939394, g: 0.31173864, b: 0.36743417, a: 1}
+  m_IndirectSpecularColor: {r: 0.2493937, g: 0.31173855, b: 0.36743394, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -1249,6 +1249,36 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 330144836}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &346815205 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: bfd13f51e0ef3ec41aa7741911df056c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1787038070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &346815206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346815205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb26f5a0140024008839dcae10f6e94f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Walk:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 50c70cc6ea68e4bfaa788f51aff66226,
+      type: 2}
+  WalkMode:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: b0d94d5930cb54594b457665a3d83e99,
+      type: 2}
 --- !u!1001 &367602514
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5024,14 +5054,35 @@ MonoBehaviour:
     valueGuidInternal: 
     groupIdInternal: 0
     groupGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 1cf41af0d04538441ab9823e7879dbaf,
+    WwiseObjectReference: {fileID: 11400000, guid: bb2c92089868342f2a73168c7943c4ce,
       type: 2}
   Sad:
     idInternal: 0
     valueGuidInternal: 
     groupIdInternal: 0
     groupGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: a4f7ca9e90a852a4b94c08f872911e99,
+    WwiseObjectReference: {fileID: 11400000, guid: d9d6b796844364b418159d8b1fa23c69,
+      type: 2}
+  Sand:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: b0d94d5930cb54594b457665a3d83e99,
+      type: 2}
+  DryGrass:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 7154c3d92b83148d0912a7d40349596a,
+      type: 2}
+  Grass:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 7be275d33b6e84a75a25855e4ca9ee83,
       type: 2}
   SLevel1:
     idInternal: 0

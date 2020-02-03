@@ -165,19 +165,37 @@ public class GameManager : MonoBehaviour
         {
             case 0:
                 firstIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", firstTextures[j]);
-                PlayAudio.instance.PlayTexture1();
-                PlayAudio.instance.PlaySad();
+                if (j == 0) 
+                {
+                    PlayAudio.instance.PlayTexture1();
+                    PlayAudio.instance.PlaySad();
+                    Debug.Log("Texture 1, Sad, Sand");
+                }
+                if (j==1)
+                {
+                    PlayAudio.instance.PlayTexture2();
+                    PlayAudio.instance.PlayHappy();
+                    Debug.Log("Texture 2, Happy, Dry Grass");
+
+                }
+
+                if (j==2)
+                {
+                    PlayAudio.instance.PlayTexture3();
+                    PlayAudio.instance.PlayHappy();
+                    Debug.Log("Texture 3, Happy, Grass");
+                }
                 break;
             case 1:
                 secondIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", secondTextures[j]);
-                PlayAudio.instance.PlayTexture2();
-                PlayAudio.instance.PlayHappy();
+
+
 
                 break;
             case 2:
                 thirdIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", thirdTextures[j]);
-                PlayAudio.instance.PlayTexture3();
-                PlayAudio.instance.PlayHappy();
+
+
 
                 break;
         }

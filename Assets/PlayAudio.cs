@@ -16,6 +16,12 @@ public class PlayAudio : MonoBehaviour
     public AK.Wwise.Event Jump;
     public AK.Wwise.Switch Happy;
     public AK.Wwise.Switch Sad;
+    public AK.Wwise.Switch Sand;
+    public AK.Wwise.Switch DryGrass;
+    public AK.Wwise.Switch Grass;
+
+
+
 
 
 
@@ -32,11 +38,25 @@ public class PlayAudio : MonoBehaviour
         Sad.SetValue(gameObject);
     }
 
+    public void PlaySand()
+    {
+        Sand.SetValue(gameObject);
+    }
+
+    public void PlayDryGrass()
+    {
+        DryGrass.SetValue(gameObject);
+    }
+
+    public void PlayGrass()
+    {
+        Grass.SetValue(gameObject);
+    }
+
     public void PlayHappy()
     {
         Happy.SetValue(gameObject);
     }
-
 
     public void PlayJump()
     {

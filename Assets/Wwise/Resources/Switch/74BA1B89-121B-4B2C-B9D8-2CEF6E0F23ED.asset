@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbf184259c384a118852b3e6a0a30ec, type: 3}
+  m_Name: 74BA1B89-121B-4B2C-B9D8-2CEF6E0F23ED
+  m_EditorClassIdentifier: 
+  objectName: happy
+  id: 1427264549
+  guid: 74BA1B89-121B-4B2C-B9D8-2CEF6E0F23ED
+  WwiseSwitchGroupReference: {fileID: 11400000, guid: c0026152bc093464ebc88a46375cae11,
+    type: 2}
