@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
     public Image endImage;
 
     public const int scoreToYellowFirst = 3;
-    public const int scoreToSecondIsland = 6;
+    public const int scoreToSecondIsland = 7;
     public const int scoreToYellowSecond = 9;
     public const int scoreToThirdIsland = 12;
     public const int scoreToYellowThird = 15;
@@ -74,14 +74,14 @@ public class GameManager : MonoBehaviour
             movement.isMoving = false;
             movement.start = movement.gameObject.transform.position;
             movement.end = reset2.position;
-            movement.speed = 0.1f;
+            movement.speed = 0.01f;
             movement.isMoving = true;
 
             // island 2 rising
             secondIsland.gameObject.SetActive(true);
         }
 
-        Invoke("Ending", 5f);
+        Invoke("Ending", 30f);
         
     }
 
@@ -139,11 +139,16 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void ShowFirstStory()
+    {        
+        text.text = stories[0];
+    }    
+
     public void ShowStory(int score)
     {
         if (score < stories.Length)
         {
-            text.text = stories[score + 1];
+            text.text = stories[score];
         }
         else
             Debug.LogError("score out of story length!");

@@ -14,9 +14,10 @@ public class PlayerCollision : MonoBehaviour
     {
         manager = GameManager.instance;
 
-        //DialogCanvas = GetComponent<Canvas>();
-        dialogUI.SetActive(false);
-        GameIsPaused = false;
+        manager.ShowFirstStory();
+        Time.timeScale = 0f;
+        GameIsPaused = true;
+        dialogUI.SetActive(true);
     }
 
     // Start is called before the first frame update
