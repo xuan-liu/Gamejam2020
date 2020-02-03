@@ -1103,11 +1103,6 @@
 								<Value>30</Value>
 							</ValueList>
 						</Property>
-						<Property Name="Volume" Type="Real64">
-							<ValueList>
-								<Value>-3</Value>
-							</ValueList>
-						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -1123,7 +1118,7 @@
 								<Property Name="EndPosition" Type="Real64" Value="150204.081632653"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-9</Value>
+										<Value>-5</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -2280,7 +2275,7 @@
 												<StateRef Name="State_1" ID="{38992CE5-EC9A-4EDB-8AA7-7EEBFBBF80FC}"/>
 												<CustomState Name="" ID="{D19CC81B-5D1E-4D7C-9E34-70A596C5AD4A}" ShortID="782094910">
 													<PropertyList>
-														<Property Name="Volume" Type="Real64" Value="-108"/>
+														<Property Name="Volume" Type="Real64" Value="-24"/>
 													</PropertyList>
 												</CustomState>
 											</CustomState>
