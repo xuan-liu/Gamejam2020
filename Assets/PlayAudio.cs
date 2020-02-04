@@ -6,7 +6,8 @@ public class PlayAudio : MonoBehaviour
 {
     public AK.Wwise.Event Environment;
 
-    [SerializeField] public int Score = 0;
+    [SerializeField] public int Score;
+
     public AK.Wwise.Event ELevel1;
     public AK.Wwise.Event ELevel2;
     public AK.Wwise.Event ELevel3;
@@ -63,30 +64,51 @@ public class PlayAudio : MonoBehaviour
         Jump.Post(gameObject);
     }
 
-    //public AK.Wwise.Event Envrionment;
 
 
+    //Posting according state for music and ambience, 1 to 6. 
     public void PlayTexture1()
     {
-        if (Score <= 0) ELevel1.Post(gameObject);
-        if (Score >= 0 && Score < 100) ELevel1.Post(gameObject);
-        if (Score >= 100 && Score < 200) ELevel2.Post(gameObject);
-    }
+        //PlayAudio.instance.ELevel1.Post(gameObject);
+        //Debug.Log("State 1"); 
 
+    }
 
     public void PlayTexture2()
     {
-        if (Score >= 200 && Score < 300) ELevel3.Post(gameObject);
-        if (Score >= 300 && Score < 400) ELevel4.Post(gameObject);
+        //ELevel2.Post(gameObject);
+        //Debug.Log("State 2"); }
+
     }
 
 
     public void PlayTexture3()
     {
-        if (Score >= 400 && Score < 500) ELevel5.Post(gameObject);
-        if (Score >= 500 && Score < 600) ELevel6.Post(gameObject);
-        if (Score >= 600) ELevel6.Post(gameObject);
+        //ELevel3.Post(gameObject);
+        //Debug.Log("State 3"); 
     }
+
+
+    public void PlayTexture4()
+    {
+        //ELevel4.Post(gameObject);
+        //Debug.Log("State 4"); 
+    }
+
+
+    public void PlayTexture5()
+    {
+        //ELevel5.Post(gameObject);
+        //Debug.Log("State 5"); 
+    }
+
+    public void PlayTexture6()
+    {
+        //ELevel6.Post(gameObject);
+        //Debug.Log("State 6"); 
+    }
+
+
 
 
     private void Awake()
@@ -108,6 +130,8 @@ public class PlayAudio : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
- 
+        //Debug.Log("Score = " + GameManager.instance.score);
+
     }
 }
+

@@ -1,12 +1,12 @@
 Initiating legacy licensing module
 DisplayProgressbar: Unity license
 
-LICENSE SYSTEM [202022 1:0:15] Next license update check is after 2019-08-10T17:31:05
+LICENSE SYSTEM [202024 1:8:7] Next license update check is after 2019-08-10T17:31:05
 
-[Package Manager] Server::Start -- Port 58556 was selected
+[Package Manager] Server::Start -- Port 54446 was selected
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/MacOS/Unity
+/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/MacOS/Unity
 -batchmode
 -nographics
 -logFile
@@ -20,8 +20,8 @@ Successfully changed project path to: /Users/yihui/Documents/GitHub/Gamejam2020_
 /Users/yihui/Documents/GitHub/Gamejam2020_WwiseIntegrationTemp
 Using Asset Import Pipeline V1.
 Initiating legacy licensing module
-Loading GUID <-> Path mappings...0.000067 seconds
-Loading Asset Database...0.017279 seconds
+Loading GUID <-> Path mappings...0.000041 seconds
+Loading Asset Database...0.016200 seconds
 Build target: OSXUniversal found and added!
 Build target: WindowsStoreApps found and added!
 Build target: Win64 found and added!
@@ -50,11 +50,11 @@ Build target: N3DS found and added!
 Build target: WP8 found and added!
 Build target: SamsungTV found and added!
 Build target: Tizen found and added!
-AssetDatabase consistency checks...0.029712 seconds
-Refreshing native plugins compatible for Editor in 65.54 ms, found 2 plugins.
+AssetDatabase consistency checks...0.039334 seconds
+Refreshing native plugins compatible for Editor in 244.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 DisplayProgressbar: Unity Package Manager
-[Package Manager] Done resolving packages in 0.43s seconds
+[Package Manager] Done resolving packages in 0.22s seconds
 [Package Manager] Registering 36 packages:
 [Package Manager]  * Package :  com.unity.ads@2.0.8
     (location: /Users/yihui/Documents/GitHub/Gamejam2020_WwiseIntegrationTemp/Library/PackageCache/com.unity.ads@2.0.8)
@@ -69,66 +69,66 @@ DisplayProgressbar: Unity Package Manager
 [Package Manager]  * Package :  com.unity.textmeshpro@1.4.1
     (location: /Users/yihui/Documents/GitHub/Gamejam2020_WwiseIntegrationTemp/Library/PackageCache/com.unity.textmeshpro@1.4.1)
 [Package Manager]  * Package :  com.unity.modules.ai@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai)
 [Package Manager]  * Package :  com.unity.modules.animation@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation)
 [Package Manager]  * Package :  com.unity.modules.assetbundle@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle)
 [Package Manager]  * Package :  com.unity.modules.audio@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio)
 [Package Manager]  * Package :  com.unity.modules.cloth@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth)
 [Package Manager]  * Package :  com.unity.modules.director@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director)
 [Package Manager]  * Package :  com.unity.modules.imageconversion@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion)
 [Package Manager]  * Package :  com.unity.modules.imgui@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui)
 [Package Manager]  * Package :  com.unity.modules.jsonserialize@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize)
 [Package Manager]  * Package :  com.unity.modules.particlesystem@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem)
 [Package Manager]  * Package :  com.unity.modules.physics@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics)
 [Package Manager]  * Package :  com.unity.modules.physics2d@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d)
 [Package Manager]  * Package :  com.unity.modules.screencapture@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture)
 [Package Manager]  * Package :  com.unity.modules.terrain@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain)
 [Package Manager]  * Package :  com.unity.modules.terrainphysics@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics)
 [Package Manager]  * Package :  com.unity.modules.tilemap@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap)
 [Package Manager]  * Package :  com.unity.modules.ui@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui)
 [Package Manager]  * Package :  com.unity.modules.uielements@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements)
 [Package Manager]  * Package :  com.unity.modules.umbra@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra)
 [Package Manager]  * Package :  com.unity.modules.unityanalytics@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics)
 [Package Manager]  * Package :  com.unity.modules.unitywebrequest@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest)
 [Package Manager]  * Package :  com.unity.modules.unitywebrequestassetbundle@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle)
 [Package Manager]  * Package :  com.unity.modules.unitywebrequestaudio@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio)
 [Package Manager]  * Package :  com.unity.modules.unitywebrequesttexture@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture)
 [Package Manager]  * Package :  com.unity.modules.unitywebrequestwww@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww)
 [Package Manager]  * Package :  com.unity.modules.vehicles@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles)
 [Package Manager]  * Package :  com.unity.modules.video@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video)
 [Package Manager]  * Package :  com.unity.modules.vr@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr)
 [Package Manager]  * Package :  com.unity.modules.wind@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind)
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind)
 [Package Manager]  * Package :  com.unity.modules.xr@1.0.0
-    (location: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr)
-[Package Manager] Done registering packages in 0.05s seconds
+    (location: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr)
+[Package Manager] Done registering packages in 0.00s seconds
 Initialize engine version: 2018.4.15f1 (13f5a1bf9ca1)
 Forcing GfxDevice: Null
 GfxDevice: creating device client; threaded=0
@@ -139,51 +139,57 @@ NullGfxDevice:
 [EnlightenBakeManager] m_Clear = false;
 WARNING: Shader Unsupported: 'Hidden/FrameDebuggerRenderTargetDisplay' - Pass '' has no vertex shader
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Mono path[0] = '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56166
 Begin MonoManager ReloadAssembly
 Initializing Unity.PackageManager (PackageManager) v2018.4.15 for Unity v2018.4.15f1
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2018.4.15f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001903 seconds.
+Register platform support module: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001641 seconds.
 Registering platform support modules:
-Registered platform support modules in: 0.1127101s.
-Native extension for WebGL target not found
+Registered platform support modules in: 0.1326732s.
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 13.29 ms.
+Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 10.57 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.153 seconds
+- Completed reload, in  4.709 seconds
 Registering precompiled user dll's ...
-Registered in 0.072948 seconds.
+Registered in 0.096529 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Initializing Unity.PackageManager (PackageManager) v2018.4.15 for Unity v2018.4.15f1
 Registering platform support modules:
-Registered platform support modules in: 0.0557219s.
-Native extension for WebGL target not found
+Registered platform support modules in: 0.0600934s.
+Native extension for iOS target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.25 ms.
-Fallback handler could not load library /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient
-Fallback handler could not load library /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.dylib
-Fallback handler could not load library /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.so
-Fallback handler could not load library /Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.bundle
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.23 ms.
+DisplayProgressbar: Populating Wwise Picker
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle/Contents/MacOS/AkWaapiClient.bundle
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.686 seconds
+- Completed reload, in  1.801 seconds
 Platform modules already initialized, skipping
-Validating Project structure ... 0.019414 seconds.
+Validating Project structure ... 0.021650 seconds.
 Refresh: detecting if any assets need to be imported or removed ...
 
-Hashing assets (65 files)... 0.020 seconds
-  file read: 0.011 seconds (5.411 MB)
+Hashing assets (68 files)... 0.012 seconds
+  file read: 0.003 seconds (5.415 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.005 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.008 seconds
------ Compute hash(es) for 65 asset(s).
+  hash: 0.007 seconds
+----- Compute hash(es) for 68 asset(s).
+----- Asset named Assets/Wwise/Deployment/API/Handwritten/Common/WwiseTypes/AkWwiseAuxBus.cs is skipped as no actual change.
+----- Asset named Assets/Wwise/Deployment/API/Handwritten/Common/WwiseTypes/AkWwiseBank.cs is skipped as no actual change.
+----- Asset named Assets/Wwise/Deployment/API/Handwritten/Common/WwiseTypes/AkWwiseBaseGroupType.cs is skipped as no actual change.
 ----- Asset named Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkAudioInput.bundle is skipped as no actual change.
 ----- Asset named Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkCompressor.bundle is skipped as no actual change.
 ----- Asset named Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkDelay.bundle is skipped as no actual change.
@@ -249,22 +255,106 @@ Hashing assets (65 files)... 0.020 seconds
 ----- Asset named Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTremolo.dll is skipped as no actual change.
 
 Updating Assets/Wwise/Extensions/AkSoundEngine.extensions.cs - GUID: d26e4c420256b42aa879cf4055d8d66d...
- done. [Time: 170.626883 ms] 
-Unloading 954 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 375.5 MB.
-System memory in use after: 283.9 MB.
+ done. [Time: 104.527773 ms] 
+Unloading 993 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 384.0 MB.
+System memory in use after: 292.4 MB.
 
-Unloading 434 unused Assets to reduce memory usage. Loaded Objects now: 1290.
-Total: 21.594502 ms (FindLiveObjects: 0.376870 ms CreateObjectMapping: 0.053828 ms MarkObjects: 3.975645 ms  DeleteObjects: 17.187217 ms)
+Unloading 463 unused Assets to reduce memory usage. Loaded Objects now: 1322.
+Total: 24.397511 ms (FindLiveObjects: 0.287334 ms CreateObjectMapping: 0.049065 ms MarkObjects: 3.166646 ms  DeleteObjects: 20.893745 ms)
 
 - Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
 - Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
 Symbols will be read from Temp/Assembly-CSharp.pdb
 Script Module: Assembly-CSharp.dll
-Pass: 0 took 47 milliseconds
-Pass: 1 took 23 milliseconds
+Pass: 0 took 52 milliseconds
+Pass: 1 took 29 milliseconds
 - Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
 - Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(13,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 13)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(16,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 16)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(19,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 19)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(22,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 22)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(25,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 25)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(28,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 28)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(31,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 31)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(34,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 34)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs(37,4): warning CS0618: 'Application.LoadLevel(int)' is obsolete: 'Use SceneManager.LoadScene'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/Levelloader.cs Line: 37)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/MouseLook.cs(27,4): warning CS0618: 'Screen.lockCursor' is obsolete: 'Use Cursor.lockState and Cursor.visible instead.'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/MouseLook.cs Line: 27)
+
+Assets/Arkham Interactive/Toony/Skies/Scripts/MouseLook.cs(27,25): warning CS0618: 'Screen.lockCursor' is obsolete: 'Use Cursor.lockState and Cursor.visible instead.'
+ 
+(Filename: Assets/Arkham Interactive/Toony/Skies/Scripts/MouseLook.cs Line: 27)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(13,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_WalkSpeed' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 13)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(15,56): warning CS0649: Field 'FirstPersonControllerNoAudio.m_RunstepLenghten' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 15)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(20,39): warning CS0649: Field 'FirstPersonControllerNoAudio.m_UseFovKick' is never assigned to, and will always have its default value false
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 20)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(25,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_StepInterval' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 25)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(14,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_RunSpeed' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 14)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(19,44): warning CS0649: Field 'FirstPersonControllerNoAudio.m_MouseLook' is never assigned to, and will always have its default value null
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 19)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(17,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_StickToGroundForce' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 17)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(18,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_GravityMultiplier' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 18)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(16,40): warning CS0649: Field 'FirstPersonControllerNoAudio.m_JumpSpeed' is never assigned to, and will always have its default value 0
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 16)
+
+Assets/Scripts/FirstPersonControllerNoAudio.cs(22,39): warning CS0649: Field 'FirstPersonControllerNoAudio.m_UseHeadBob' is never assigned to, and will always have its default value false
+ 
+(Filename: Assets/Scripts/FirstPersonControllerNoAudio.cs Line: 22)
+
 Assets/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs(54,25): warning CS0618: 'TextureImporter.textureFormat' is obsolete: 'textureFormat is no longer accessible at the TextureImporter level. For old 'simple' formats use the textureCompression property for the equivalent automatic choice (Uncompressed for TrueColor, Compressed and HQCommpressed for 16 bits). For platform specific formats use the [[PlatformTextureSettings]] API. Using this setter will setup various parameters to match the new automatic system as well as possible. Getter will return the last value set.'
  
 (Filename: Assets/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionLookupEditor.cs Line: 54)
@@ -285,76 +375,76 @@ Reloading assemblies after script compilation.
 Begin MonoManager ReloadAssembly
 Initializing Unity.PackageManager (PackageManager) v2018.4.15 for Unity v2018.4.15f1
 Registering platform support modules:
-Registered platform support modules in: 0.0579609s.
-Native extension for WebGL target not found
+Registered platform support modules in: 0.0589474s.
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 54.41 ms, found 3 plugins.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 50.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.04 ms.
-Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.510 seconds
+- Completed reload, in  1.815 seconds
 Platform modules already initialized, skipping
-Script Compilation Pipeline Post Process Assets time: 13.935970s
-Assembly Updater Post Process Assets time: 0.000315s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.18 ms.
+Script Compilation Pipeline Post Process Assets time: 7.360702s
+Assembly Updater Post Process Assets time: 0.000057s
+Refreshing native plugins compatible for Editor in 1.48 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.23 ms.
 Refresh: detecting if any assets need to be imported or removed ...
 
-Hashing assets (1 files)... 0.000 seconds
+Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.001 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 ----- Compute hash(es) for 1 asset(s).
 
 Updating Assets/WwiseSettings.xml - GUID: 33c3ef610174546de8f0a0786611569a...
- done. [Time: 129.327614 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000828s
-Assembly Updater Post Process Assets time: 0.000039s
-Refreshing native plugins compatible for Editor in 1.54 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.17 ms.
-Refreshing native plugins compatible for Editor in 1.54 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.34 ms.
+ done. [Time: 81.243422 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000957s
+Assembly Updater Post Process Assets time: 0.000034s
+Refreshing native plugins compatible for Editor in 1.53 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.21 ms.
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.86 ms.
 
-Refresh Completed time: 0.271405s
-	Asset Scan time: 0.042170s
-	Asset Hashing: 0.000565s [0.7 KB, 1.127562 mb/s]
+Refresh Completed time: 0.177555s
+	Asset Scan time: 0.053713s
+	Asset Hashing: 0.000944s [0.7 KB, 0.674721 mb/s]
 	Asset Import (Scripting) time: 0.000000s (count: 0)
 	Post Processs Assets (Scripting) time: 0.000000s
 	Asset Rehashing: 0.000000s [0 B, 0.000000 mb/s]
-	Asset Import (Non Scripting) time: 0.129497s (count: 1)
-	Post Process Assets (Non Scripting) time: 0.005707s
-	Dependent Assets to Import Queue time: 0.001176s
+	Asset Import (Non Scripting) time: 0.081440s (count: 1)
+	Post Process Assets (Non Scripting) time: 0.005815s
+	Dependent Assets to Import Queue time: 0.001789s
 
 WARNING: Shader Unsupported: 'Hidden/FrameDebuggerRenderTargetDisplay' - Pass '' has no vertex shader
-Warming cache for 2306 main assets: 0.005172 seconds elapsed
+Warming cache for 2451 main assets: 0.008239 seconds elapsed
 Initializing Unity extensions:
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll'  GUID: 6a10b2909283487f913b00d94cd3faf5
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll'  GUID: 405b9b51bb344a128608d968297df79c
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'  GUID: 844f815391db42d49455cbf1a7bfc434
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll'  GUID: dc443db3e92b4983b9738c1131f555cb
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll'  GUID: ed7343f30e3843b3afda8f8b02669cea
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll'  GUID: 4a3ecb1425d14502837abea459cf2b70
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll'  GUID: 5f32cd94baa94578a686d4b9d6b660f7
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll'  GUID: b5da970776034f77a070d99423d68791
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'  GUID: 870353891bb340e2b2a9c8707e7419ba
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll'  GUID: ead147da21254ff9a0a936bdd75e1680
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll'  GUID: e4f4cf1b9b434137a499903a7a1d651a
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll'  GUID: 3a84de5cd0624681b6b6dcd8921d912a
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'  GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
- '/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll'  GUID: 7668179ede524d6396c8b7d84461ea29
-Unloading 353 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 288.8 MB.
-System memory in use after: 288.8 MB.
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll'  GUID: 6a10b2909283487f913b00d94cd3faf5
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll'  GUID: 405b9b51bb344a128608d968297df79c
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'  GUID: 844f815391db42d49455cbf1a7bfc434
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll'  GUID: dc443db3e92b4983b9738c1131f555cb
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll'  GUID: ed7343f30e3843b3afda8f8b02669cea
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll'  GUID: 4a3ecb1425d14502837abea459cf2b70
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll'  GUID: 5f32cd94baa94578a686d4b9d6b660f7
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll'  GUID: b5da970776034f77a070d99423d68791
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'  GUID: 870353891bb340e2b2a9c8707e7419ba
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll'  GUID: ead147da21254ff9a0a936bdd75e1680
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll'  GUID: e4f4cf1b9b434137a499903a7a1d651a
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll'  GUID: 3a84de5cd0624681b6b6dcd8921d912a
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'  GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+ '/Applications/Unity/Hub/Editor/2017.1.1f1/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll'  GUID: 7668179ede524d6396c8b7d84461ea29
+Unloading 360 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 293.2 MB.
+System memory in use after: 293.2 MB.
 
-Unloading 303 unused Assets to reduce memory usage. Loaded Objects now: 1375.
-Total: 4.024561 ms (FindLiveObjects: 0.264251 ms CreateObjectMapping: 0.041602 ms MarkObjects: 3.598824 ms  DeleteObjects: 0.119115 ms)
+Unloading 310 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 6.284740 ms (FindLiveObjects: 0.502422 ms CreateObjectMapping: 0.130872 ms MarkObjects: 5.438055 ms  DeleteObjects: 0.212294 ms)
 
 WwiseUnity: Running modify setup...
 UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
@@ -366,11 +456,11 @@ WwiseSetupWizard:RunModify() (at Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSet
 (Filename: Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs Line: 24)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 281.2 MB.
-System memory in use after: 281.3 MB.
+System memory in use before: 285.4 MB.
+System memory in use after: 285.6 MB.
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1377.
-Total: 4.132024 ms (FindLiveObjects: 0.235344 ms CreateObjectMapping: 0.031310 ms MarkObjects: 3.851698 ms  DeleteObjects: 0.012783 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1406.
+Total: 5.763928 ms (FindLiveObjects: 0.416375 ms CreateObjectMapping: 0.052245 ms MarkObjects: 5.278891 ms  DeleteObjects: 0.015384 ms)
 
 
 Hashing assets (1 files)... 0.001 seconds
@@ -379,11 +469,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRoomVerb.bundle - GUID: 52c0cc107b66d414696c8da059db12c3...
- done. [Time: 5.257879 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000030s
-Assembly Updater Post Process Assets time: 0.000021s
-Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.10 ms.
+ done. [Time: 8.408803 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000023s
+Assembly Updater Post Process Assets time: 0.000024s
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.42 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.096 MB)
@@ -391,131 +481,131 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkCompressor.dll - GUID: ae19f830e25084f2db68521c02c2d1cc...
- done. [Time: 68.768030 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000228s
-Assembly Updater Post Process Assets time: 0.000275s
-Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.19 ms.
+ done. [Time: 5.886888 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000318s
+Assembly Updater Post Process Assets time: 0.000211s
+Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.41 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.097 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkDelay.dll - GUID: acaaed90b03f34c4986c83d827fdceb9...
- done. [Time: 4.598402 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000174s
-Assembly Updater Post Process Assets time: 0.000147s
-Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 5.395663 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000231s
+Assembly Updater Post Process Assets time: 0.000316s
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.20 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.025 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkExpander.bundle - GUID: b14235f0a81084647823cfb209cc29a4...
- done. [Time: 2.840878 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000007s
-Assembly Updater Post Process Assets time: 0.000018s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 3.905666 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000010s
+Assembly Updater Post Process Assets time: 0.000020s
+Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.24 ms.
 
 Hashing assets (1 files)... 0.002 seconds
-  file read: 0.002 seconds (0.694 MB)
+  file read: 0.000 seconds (0.694 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.001 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libiZotope.bundle - GUID: d60f7501febfb4ea489e1a1654cdae79...
- done. [Time: 38.680208 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000013s
-Assembly Updater Post Process Assets time: 0.000024s
-Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.15 ms.
+ done. [Time: 4.060958 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000023s
+Assembly Updater Post Process Assets time: 0.000053s
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.45 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.099 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkPeakLimiter.dll - GUID: 89e56921573bb4a0aa0fdf08f2877025...
- done. [Time: 71.434796 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000297s
-Assembly Updater Post Process Assets time: 0.000175s
-Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.30 ms.
+ done. [Time: 6.402088 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000352s
+Assembly Updater Post Process Assets time: 0.000230s
+Refreshing native plugins compatible for Editor in 2.23 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.48 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.047 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkStereoDelay.bundle - GUID: 10ef8d519d3c04d2384a87324f6e3d45...
- done. [Time: 68.047024 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000015s
-Assembly Updater Post Process Assets time: 0.000032s
-Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.14 ms.
+ done. [Time: 4.862952 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000057s
+Assembly Updater Post Process Assets time: 0.000041s
+Refreshing native plugins compatible for Editor in 2.02 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.68 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.104 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkGuitarDistortion.dll - GUID: 109a496174ab14138add7b05054d1e5d...
- done. [Time: 4.863360 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000220s
-Assembly Updater Post Process Assets time: 0.000289s
-Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.23 ms.
+ done. [Time: 8.033994 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000323s
+Assembly Updater Post Process Assets time: 0.000282s
+Refreshing native plugins compatible for Editor in 1.52 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.044 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkPitchShifter.bundle - GUID: c0a0759115d564249b6becba75ee22cd...
- done. [Time: 3.398487 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000021s
-Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.10 ms.
+ done. [Time: 6.148192 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000023s
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.82 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.142 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkConvolutionReverb.dll - GUID: 208b52a127ddd4d56ac772deb48ef12f...
- done. [Time: 4.041473 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000155s
-Assembly Updater Post Process Assets time: 0.000138s
-Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.49 ms.
+ done. [Time: 6.592698 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000271s
+Assembly Updater Post Process Assets time: 0.000370s
+Refreshing native plugins compatible for Editor in 2.17 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.70 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.069 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkMatrixReverb.bundle - GUID: 31b268a1823944e0386bd8755452880e...
- done. [Time: 3.012617 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000009s
-Assembly Updater Post Process Assets time: 0.000020s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.24 ms.
+ done. [Time: 5.157636 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000023s
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.21 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.430 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.001 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/iZotope.dll - GUID: a7a547f14352c4d12ba2e6903da03e58...
- done. [Time: 3.637098 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000193s
-Assembly Updater Post Process Assets time: 0.000126s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.11 ms.
+ done. [Time: 4.958471 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000242s
+Assembly Updater Post Process Assets time: 0.000259s
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.18 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.075 MB)
@@ -523,53 +613,53 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkRecorder.dll - GUID: d3327af14bd6946c6b69b34dcaae7bd7...
- done. [Time: 4.326380 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000290s
-Assembly Updater Post Process Assets time: 0.000204s
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 3.988835 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000227s
+Assembly Updater Post Process Assets time: 0.000157s
+Refreshing native plugins compatible for Editor in 1.61 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.038 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkGuitarDistortion.bundle - GUID: 4504aa82aecc3407bb867a135f28d755...
- done. [Time: 4.173390 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000014s
-Assembly Updater Post Process Assets time: 0.000043s
-Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.04 ms.
+ done. [Time: 3.791649 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000008s
+Assembly Updater Post Process Assets time: 0.000021s
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.69 ms.
 
 Hashing assets (1 files)... 0.004 seconds
   file read: 0.001 seconds (2.594 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.003 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkSoundEngine.dll - GUID: dac952d20e47249e1864b1d33fde4c68...
- done. [Time: 4.931800 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000171s
-Assembly Updater Post Process Assets time: 0.000241s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.05 ms.
+ done. [Time: 5.763134 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000364s
+Assembly Updater Post Process Assets time: 0.000248s
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.12 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle - GUID: db6173d2abcc44f6ca5e24f5b8cc834e...
- done. [Time: 3.906959 ms] 
+ done. [Time: 4.435042 ms] 
 Script Compilation Pipeline Post Process Assets time: 0.000012s
-Assembly Updater Post Process Assets time: 0.000023s
-Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.04 ms.
+Assembly Updater Post Process Assets time: 0.000024s
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.02 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.020 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkGain.bundle - GUID: e1a868f2bb5824b758da56857152191e...
- done. [Time: 3.333001 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000018s
-Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.59 ms.
+ done. [Time: 4.384276 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000011s
+Assembly Updater Post Process Assets time: 0.000021s
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.44 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.100 MB)
@@ -577,11 +667,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTremolo.dll - GUID: d29f08036f4b740bf9f1ed5a3aa623a5...
- done. [Time: 4.280117 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000209s
-Assembly Updater Post Process Assets time: 0.000182s
-Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.21 ms.
+ done. [Time: 5.368495 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000303s
+Assembly Updater Post Process Assets time: 0.000261s
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.095 MB)
@@ -589,11 +679,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkExpander.dll - GUID: 9d786933a7b214b88a7141dff3b8a853...
- done. [Time: 3.874162 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000226s
-Assembly Updater Post Process Assets time: 0.000147s
-Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.99 ms.
+ done. [Time: 5.070236 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000267s
+Assembly Updater Post Process Assets time: 0.000182s
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.04 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.126 MB)
@@ -601,11 +691,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedAir.dll - GUID: 8cb91863ea53e4017a9ac4565862e3f4...
- done. [Time: 4.519100 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000214s
-Assembly Updater Post Process Assets time: 0.000227s
-Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 5.779641 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000311s
+Assembly Updater Post Process Assets time: 0.000305s
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.35 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.128 MB)
@@ -613,11 +703,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkConvolutionReverb.dll - GUID: b239b1e3a6c4e49328bfd07eec6cea30...
- done. [Time: 4.289521 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000179s
-Assembly Updater Post Process Assets time: 0.000210s
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.13 ms.
+ done. [Time: 5.165895 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000340s
+Assembly Updater Post Process Assets time: 0.000297s
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.53 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.258 MB)
@@ -625,11 +715,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/McDSP.dll - GUID: 43309c34f4c704b4b8081c5eb4740281...
- done. [Time: 4.831666 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000176s
-Assembly Updater Post Process Assets time: 0.000170s
-Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.11 ms.
+ done. [Time: 5.045179 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000258s
+Assembly Updater Post Process Assets time: 0.000282s
+Refreshing native plugins compatible for Editor in 1.85 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.76 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.108 MB)
@@ -637,11 +727,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTimeStretch.dll - GUID: 2f65ee5429ca34957ba6f89ecf894c1a...
- done. [Time: 4.598436 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000236s
-Assembly Updater Post Process Assets time: 0.000229s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.00 ms.
+ done. [Time: 5.602601 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000276s
+Assembly Updater Post Process Assets time: 0.000270s
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.35 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.116 MB)
@@ -649,47 +739,47 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkGuitarDistortion.dll - GUID: 44004d64311714821881c2ee68ca56e2...
- done. [Time: 5.368167 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000258s
-Assembly Updater Post Process Assets time: 0.000203s
-Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 5.777099 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000338s
+Assembly Updater Post Process Assets time: 0.000277s
+Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.08 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.107 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedAir.bundle - GUID: c9ff4cb43482646db9d537d63c095b0b...
- done. [Time: 4.123770 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000014s
-Assembly Updater Post Process Assets time: 0.000037s
-Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 4.784361 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000017s
+Assembly Updater Post Process Assets time: 0.000033s
+Refreshing native plugins compatible for Editor in 1.76 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.48 ms.
 
-Hashing assets (1 files)... 0.003 seconds
-  file read: 0.000 seconds (2.420 MB)
+Hashing assets (1 files)... 0.004 seconds
+  file read: 0.001 seconds (2.420 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.003 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.004 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkSoundEngine.dll - GUID: 0981edc42fe284dfcbcbfbffa2a6059d...
- done. [Time: 4.938142 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000244s
-Assembly Updater Post Process Assets time: 0.000365s
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.21 ms.
+ done. [Time: 5.810872 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000219s
+Assembly Updater Post Process Assets time: 0.000272s
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.56 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.070 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkHarmonizer.bundle - GUID: 1374d9d49b0844f58aaa1683ed691424...
- done. [Time: 3.820376 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000009s
-Assembly Updater Post Process Assets time: 0.000058s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.15 ms.
+ done. [Time: 4.230092 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000032s
+Refreshing native plugins compatible for Editor in 1.73 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.41 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.127 MB)
@@ -697,23 +787,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkReflect.dll - GUID: b35bdfd43cc4046e08ce7e9135d2e4a1...
- done. [Time: 4.034361 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000337s
-Assembly Updater Post Process Assets time: 0.000396s
-Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.07 ms.
+ done. [Time: 6.138226 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000229s
+Assembly Updater Post Process Assets time: 0.000248s
+Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.08 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.118 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkFlanger.dll - GUID: bdb4af556237f4f5aadaee4fe76bce5e...
- done. [Time: 4.188296 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000222s
-Assembly Updater Post Process Assets time: 0.000215s
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.11 ms.
+ done. [Time: 5.445778 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000328s
+Assembly Updater Post Process Assets time: 0.000245s
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.28 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.117 MB)
@@ -721,11 +811,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkStereoDelay.dll - GUID: f11a8865063c9434786a3b250a7e50ff...
- done. [Time: 3.958376 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000189s
-Assembly Updater Post Process Assets time: 0.000137s
-Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.17 ms.
+ done. [Time: 4.957855 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000253s
+Assembly Updater Post Process Assets time: 0.000221s
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.42 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.105 MB)
@@ -733,23 +823,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkStereoDelay.dll - GUID: 4a443fa5732bf40e7a15b1097874164d...
- done. [Time: 4.428473 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000222s
-Assembly Updater Post Process Assets time: 0.000205s
-Refreshing native plugins compatible for Editor in 1.73 ms, found 3 plugins.
+ done. [Time: 4.410856 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000220s
+Assembly Updater Post Process Assets time: 0.000188s
+Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 1.24 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.203 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/McDSP.dll - GUID: 022e22b5c97f64fb7930ccd0ae9c0b3c...
- done. [Time: 3.849650 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000219s
-Assembly Updater Post Process Assets time: 0.000170s
-Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.45 ms.
+ done. [Time: 3.988864 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000196s
+Assembly Updater Post Process Assets time: 0.000140s
+Refreshing native plugins compatible for Editor in 1.86 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.118 MB)
@@ -757,23 +847,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkHarmonizer.dll - GUID: 2c7265d52e4a84754a02b0008c124a18...
- done. [Time: 4.111195 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000199s
-Assembly Updater Post Process Assets time: 0.000172s
-Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.52 ms.
+ done. [Time: 5.396915 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000328s
+Assembly Updater Post Process Assets time: 0.000245s
+Refreshing native plugins compatible for Editor in 2.42 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.50 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.132 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkMatrixReverb.dll - GUID: 57cc7926385df435e92467b345d2db98...
- done. [Time: 4.107688 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000229s
-Assembly Updater Post Process Assets time: 0.000228s
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.10 ms.
+ done. [Time: 5.326590 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000254s
+Assembly Updater Post Process Assets time: 0.000244s
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.50 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.092 MB)
@@ -781,11 +871,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkGain.dll - GUID: 75e60836b7f544aa4843a05ec5c01ce5...
- done. [Time: 3.728096 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000192s
-Assembly Updater Post Process Assets time: 0.000214s
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.99 ms.
+ done. [Time: 5.476017 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000264s
+Assembly Updater Post Process Assets time: 0.000330s
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.18 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.050 MB)
@@ -793,23 +883,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSynthOne.bundle - GUID: b4b0ac96a0440410280a371697ab2e60...
- done. [Time: 3.716078 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000019s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 4.410842 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000012s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.42 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.513 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.001 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkWaapiClient.dll - GUID: afc10e96ab09d4b30ba2cd826fcaf3d8...
- done. [Time: 5.147504 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000187s
-Assembly Updater Post Process Assets time: 0.000225s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.12 ms.
+ done. [Time: 5.561359 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000276s
+Assembly Updater Post Process Assets time: 0.000302s
+Refreshing native plugins compatible for Editor in 1.97 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.85 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.027 MB)
@@ -817,29 +907,29 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedImpact.bundle - GUID: c5530bc62542d431d97e4b5a23180052...
- done. [Time: 4.020625 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000022s
-Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.19 ms.
+ done. [Time: 3.352411 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000009s
+Assembly Updater Post Process Assets time: 0.000019s
+Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.29 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkWaapiClient.bundle - GUID: 93ea09e67325b423ab75ce88cc9827ec...
- done. [Time: 3.204860 ms] 
+ done. [Time: 4.027919 ms] 
 Script Compilation Pipeline Post Process Assets time: 0.000010s
-Assembly Updater Post Process Assets time: 0.000018s
-Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.30 ms.
+Assembly Updater Post Process Assets time: 0.000016s
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.167 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkRoomVerb.dll - GUID: e03769e62013c435ea25072b4d0a3f4b...
- done. [Time: 4.045933 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000184s
-Assembly Updater Post Process Assets time: 0.000167s
-Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.55 ms.
+ done. [Time: 5.155914 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000279s
+Assembly Updater Post Process Assets time: 0.000170s
+Refreshing native plugins compatible for Editor in 1.73 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.52 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.016 MB)
@@ -847,11 +937,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSilenceGenerator.bundle - GUID: d06510279c2ac40a286bf2c3eb7689d2...
- done. [Time: 3.501551 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000020s
-Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 4.060598 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000012s
+Assembly Updater Post Process Assets time: 0.000024s
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.129 MB)
@@ -859,11 +949,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedGrain.dll - GUID: 4957ef27f17834786a08dd2cb60b2a75...
- done. [Time: 4.264771 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000148s
-Assembly Updater Post Process Assets time: 0.000171s
-Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 4.088396 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000288s
+Assembly Updater Post Process Assets time: 0.000255s
+Refreshing native plugins compatible for Editor in 2.16 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.41 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.111 MB)
@@ -871,11 +961,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkPitchShifter.dll - GUID: f804f437383c5454281ed0668c72234c...
- done. [Time: 3.976032 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000268s
-Assembly Updater Post Process Assets time: 0.000275s
-Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.09 ms.
+ done. [Time: 5.355522 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000265s
+Assembly Updater Post Process Assets time: 0.000226s
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.18 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.104 MB)
@@ -883,71 +973,71 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedImpact.dll - GUID: 7f66b347d92334e89a2551c873f298a2...
- done. [Time: 3.937916 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000214s
-Assembly Updater Post Process Assets time: 0.000212s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.99 ms.
+ done. [Time: 5.493583 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000272s
+Assembly Updater Post Process Assets time: 0.000251s
+Refreshing native plugins compatible for Editor in 1.54 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.11 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.314 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.000 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.001 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/iZotope.dll - GUID: 89a5ea47d657c46f5a3d694c47c12a77...
- done. [Time: 5.378810 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000194s
-Assembly Updater Post Process Assets time: 0.000185s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.10 ms.
+ done. [Time: 5.219513 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000358s
+Assembly Updater Post Process Assets time: 0.000286s
+Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.20 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.093 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkDelay.dll - GUID: acfe3b479353b4f028531af112962893...
- done. [Time: 5.182458 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000224s
-Assembly Updater Post Process Assets time: 0.000216s
-Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.15 ms.
+ done. [Time: 4.994679 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000257s
+Assembly Updater Post Process Assets time: 0.000236s
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.46 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.109 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkToneGen.dll - GUID: 74068e479b6a04fa2a5715aad9567a4d...
- done. [Time: 4.339053 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000195s
-Assembly Updater Post Process Assets time: 0.000236s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.18 ms.
+ done. [Time: 5.085766 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000262s
+Assembly Updater Post Process Assets time: 0.000159s
+Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.45 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.394 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.001 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkWaapiClient.dll - GUID: bf7d5657886224b648e72856aaa82832...
- done. [Time: 4.074020 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000290s
-Assembly Updater Post Process Assets time: 0.000345s
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 4.608253 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000268s
+Assembly Updater Post Process Assets time: 0.000293s
+Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.05 ms.
 
 Hashing assets (1 files)... 0.003 seconds
   file read: 0.000 seconds (2.118 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.002 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.003 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkSoundEngine.dll - GUID: b55a47871c8cf46fea6f4213afb458da...
- done. [Time: 5.183639 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000255s
-Assembly Updater Post Process Assets time: 0.000233s
-Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.12 ms.
+ done. [Time: 5.923124 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000319s
+Assembly Updater Post Process Assets time: 0.000237s
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.17 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.119 MB)
@@ -955,41 +1045,41 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libCrankcaseAudioREVModelPlayer.bundle - GUID: 3a16ab877180147749469d38e156db10...
- done. [Time: 3.502687 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000024s
-Assembly Updater Post Process Assets time: 0.000031s
-Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.13 ms.
+ done. [Time: 4.393559 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000010s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.10 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle - GUID: 9f0acbe7c197a464db55ff4c0ea5904c...
- done. [Time: 3.407260 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000009s
-Assembly Updater Post Process Assets time: 0.000016s
-Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.63 ms.
+ done. [Time: 4.010821 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000024s
+Assembly Updater Post Process Assets time: 0.000047s
+Refreshing native plugins compatible for Editor in 1.94 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.17 ms.
 
-Hashing assets (1 files)... 0.004 seconds
+Hashing assets (1 files)... 0.005 seconds
   file read: 0.001 seconds (2.854 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.003 seconds
+  hash: 0.004 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkWaapiClient.dll - GUID: 859ba948426dc4c86b31894d0c25f66b...
- done. [Time: 4.058943 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000179s
-Assembly Updater Post Process Assets time: 0.000308s
-Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.12 ms.
+ done. [Time: 4.925931 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000217s
+Assembly Updater Post Process Assets time: 0.000183s
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.62 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.138 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedGrain.dll - GUID: f5d8c0981ce834262884e9e2a8e73ecd...
- done. [Time: 4.069652 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000189s
-Assembly Updater Post Process Assets time: 0.000263s
-Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.28 ms.
+ done. [Time: 5.478558 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000311s
+Assembly Updater Post Process Assets time: 0.000241s
+Refreshing native plugins compatible for Editor in 2.08 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.62 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.041 MB)
@@ -997,11 +1087,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRecorder.bundle - GUID: 3663ceb8c15634024ac2f4ea86cb5e06...
- done. [Time: 3.341928 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000007s
-Assembly Updater Post Process Assets time: 0.000018s
-Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.45 ms.
+ done. [Time: 4.203722 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000016s
+Assembly Updater Post Process Assets time: 0.000063s
+Refreshing native plugins compatible for Editor in 1.95 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.030 MB)
@@ -1009,11 +1099,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkParametricEQ.bundle - GUID: 3f5861c8e966145c086aceb204243b5d...
- done. [Time: 3.802547 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000009s
-Assembly Updater Post Process Assets time: 0.000022s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 4.106321 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000064s
+Refreshing native plugins compatible for Editor in 1.81 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
 Hashing assets (1 files)... 0.004 seconds
   file read: 0.000 seconds (2.425 MB)
@@ -1021,23 +1111,23 @@ Hashing assets (1 files)... 0.004 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.003 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/Auro.dll - GUID: 41cc4fd8580584a5e9ac1ed80e69a54b...
- done. [Time: 4.435004 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000258s
-Assembly Updater Post Process Assets time: 0.000119s
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 5.737325 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000207s
+Assembly Updater Post Process Assets time: 0.000142s
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.33 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.103 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkPitchShifter.dll - GUID: 8c36ac29c4e15465588c7cf96b84e7e4...
- done. [Time: 4.547976 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000170s
-Assembly Updater Post Process Assets time: 0.000213s
-Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 5.984315 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000274s
+Assembly Updater Post Process Assets time: 0.000259s
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.17 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.084 MB)
@@ -1045,35 +1135,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedGrain.bundle - GUID: 126684597827a4490b0ff3ce80ac6b19...
- done. [Time: 6.636321 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000010s
-Assembly Updater Post Process Assets time: 0.000021s
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.37 ms.
+ done. [Time: 4.306528 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000013s
+Assembly Updater Post Process Assets time: 0.000077s
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.06 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.068 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSilenceGenerator.dll - GUID: 023147a9561094f9597d6ec267a9d83e...
- done. [Time: 4.550281 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000229s
-Assembly Updater Post Process Assets time: 0.000224s
-Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.09 ms.
+ done. [Time: 5.090115 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000237s
+Assembly Updater Post Process Assets time: 0.000235s
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.122 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSynthOne.dll - GUID: eff2eaa92c5fd424f98ffef2eb322315...
- done. [Time: 4.374600 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000221s
-Assembly Updater Post Process Assets time: 0.000139s
-Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 4.846975 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000251s
+Assembly Updater Post Process Assets time: 0.000240s
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.52 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.124 MB)
@@ -1081,11 +1171,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkMotion.dll - GUID: ef8918c97733f4517b7be6492a520812...
- done. [Time: 3.809698 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000168s
-Assembly Updater Post Process Assets time: 0.000143s
-Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 4.205273 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000205s
+Assembly Updater Post Process Assets time: 0.000228s
+Refreshing native plugins compatible for Editor in 2.18 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.49 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.151 MB)
@@ -1093,23 +1183,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedAir.dll - GUID: 669daec9412b64a009c7b1242c3393fe...
- done. [Time: 4.220511 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000174s
-Assembly Updater Post Process Assets time: 0.000254s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.99 ms.
+ done. [Time: 4.201040 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000213s
+Assembly Updater Post Process Assets time: 0.000201s
+Refreshing native plugins compatible for Editor in 1.40 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
 Hashing assets (1 files)... 0.004 seconds
   file read: 0.001 seconds (2.368 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.004 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.003 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/Auro.dll - GUID: 694916e9c8187476b96b10bbf9039b47...
- done. [Time: 4.546915 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000238s
-Assembly Updater Post Process Assets time: 0.000229s
-Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 6.606229 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000458s
+Assembly Updater Post Process Assets time: 0.000384s
+Refreshing native plugins compatible for Editor in 1.52 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.46 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.092 MB)
@@ -1117,11 +1207,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkAudioInput.dll - GUID: 911b99f90a5424d7da7edacdf9d705b8...
- done. [Time: 3.892570 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000238s
-Assembly Updater Post Process Assets time: 0.000141s
-Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.01 ms.
+ done. [Time: 5.967159 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000236s
+Assembly Updater Post Process Assets time: 0.000210s
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.59 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.095 MB)
@@ -1129,11 +1219,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkCompressor.dll - GUID: 2440010a731cf420f93aba43cf4219fc...
- done. [Time: 4.433789 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000259s
-Assembly Updater Post Process Assets time: 0.000169s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.10 ms.
+ done. [Time: 5.253626 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000318s
+Assembly Updater Post Process Assets time: 0.000277s
+Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.26 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.092 MB)
@@ -1141,35 +1231,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkAudioInput.dll - GUID: d8252f9a3d0d243b5bebfe63743535b0...
- done. [Time: 5.119017 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000258s
-Assembly Updater Post Process Assets time: 0.000296s
-Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 6.151267 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000371s
+Assembly Updater Post Process Assets time: 0.000407s
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.18 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.093 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSineTone.dll - GUID: 3ad912aabc0a84dd2a6d428dccfc30f3...
- done. [Time: 4.774500 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000279s
-Assembly Updater Post Process Assets time: 0.000240s
-Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 5.624328 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000256s
+Assembly Updater Post Process Assets time: 0.000226s
+Refreshing native plugins compatible for Editor in 1.89 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.69 ms.
 
 Hashing assets (1 files)... 0.001 seconds
-  file read: 0.001 seconds (0.087 MB)
+  file read: 0.000 seconds (0.087 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkConvolutionReverb.bundle - GUID: 862aaaaa570e7473294bcece45bd460d...
- done. [Time: 3.726978 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000015s
-Assembly Updater Post Process Assets time: 0.000026s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.09 ms.
+ done. [Time: 4.178618 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000010s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.76 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.097 MB)
@@ -1177,35 +1267,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkExpander.dll - GUID: 18aa9eea0d64245b3ba8cafaeb7ab8a3...
- done. [Time: 4.212550 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000238s
-Assembly Updater Post Process Assets time: 0.000252s
-Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.05 ms.
+ done. [Time: 5.133672 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000549s
+Assembly Updater Post Process Assets time: 0.000350s
+Refreshing native plugins compatible for Editor in 1.54 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.24 ms.
 
-Hashing assets (1 files)... 0.001 seconds
+Hashing assets (1 files)... 0.002 seconds
   file read: 0.000 seconds (0.513 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.001 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkWaapiClient.dll - GUID: ab19d81b176044a7b8699f518535f751...
- done. [Time: 4.036269 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000330s
-Assembly Updater Post Process Assets time: 0.000236s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.00 ms.
+ done. [Time: 5.837750 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000345s
+Assembly Updater Post Process Assets time: 0.000293s
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
-Hashing assets (1 files)... 0.010 seconds
-  file read: 0.002 seconds (6.959 MB)
+Hashing assets (1 files)... 0.011 seconds
+  file read: 0.003 seconds (6.959 MB)
   wait for write: 0.002 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.009 seconds
+  hash: 0.010 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkSoundEngine.dll - GUID: 40765b1bb70b74e76a97413770dd0769...
- done. [Time: 4.169399 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000165s
-Assembly Updater Post Process Assets time: 0.000131s
-Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.99 ms.
+ done. [Time: 5.656885 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000345s
+Assembly Updater Post Process Assets time: 0.000269s
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.30 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.119 MB)
@@ -1213,23 +1303,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTimeStretch.dll - GUID: 37e1c83bb9cf145c4bd66a4bc004e8e2...
- done. [Time: 5.466607 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000218s
-Assembly Updater Post Process Assets time: 0.000186s
-Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.04 ms.
+ done. [Time: 6.091947 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000266s
+Assembly Updater Post Process Assets time: 0.000229s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.29 ms.
 
-Hashing assets (1 files)... 0.002 seconds
-  file read: 0.001 seconds (0.245 MB)
+Hashing assets (1 files)... 0.001 seconds
+  file read: 0.000 seconds (0.245 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libMcDSP.bundle - GUID: 3c3a305b691e84384bc96ceed044f115...
- done. [Time: 4.117685 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000020s
-Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.14 ms.
+ done. [Time: 4.733991 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000024s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.07 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.029 MB)
@@ -1237,16 +1327,16 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkPeakLimiter.bundle - GUID: 61947d7b5fb454a5286beb4e084ab982...
- done. [Time: 3.944296 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000010s
-Assembly Updater Post Process Assets time: 0.000036s
-Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.31 ms.
+ done. [Time: 4.132294 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000013s
+Assembly Updater Post Process Assets time: 0.000023s
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.09 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkWaapiClient.bundle - GUID: fb83248bca63a4a4a8c2a390f1800498...
- done. [Time: 3.229136 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000023s
-Assembly Updater Post Process Assets time: 0.000032s
-Refreshing native plugins compatible for Editor in 1.69 ms, found 3 plugins.
+ done. [Time: 4.636432 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000019s
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 1.05 ms.
 
 Hashing assets (1 files)... 0.001 seconds
@@ -1255,17 +1345,17 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkToneGen.dll - GUID: cdb6b99b3871e47e682835810b4e9c90...
- done. [Time: 4.079051 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000272s
-Assembly Updater Post Process Assets time: 0.000248s
-Refreshing native plugins compatible for Editor in 1.43 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.77 ms.
+ done. [Time: 5.245041 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000304s
+Assembly Updater Post Process Assets time: 0.000250s
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.46 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkWaapiClient.bundle - GUID: f46905bb38e7f4b2a8b3d3677bf06940...
- done. [Time: 3.414068 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000016s
-Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 3.851962 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000040s
+Assembly Updater Post Process Assets time: 0.000048s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.138 MB)
@@ -1273,11 +1363,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkHarmonizer.dll - GUID: c9a50bbb9250446daba35f14e64e34d7...
- done. [Time: 4.909506 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000197s
-Assembly Updater Post Process Assets time: 0.000184s
-Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.08 ms.
+ done. [Time: 4.112211 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000171s
+Assembly Updater Post Process Assets time: 0.000147s
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.23 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.106 MB)
@@ -1285,11 +1375,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkFlanger.dll - GUID: 1233eb5c1a53d4ce3ad5543d6494c66a...
- done. [Time: 4.119368 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000212s
-Assembly Updater Post Process Assets time: 0.000233s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.00 ms.
+ done. [Time: 4.077848 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000223s
+Assembly Updater Post Process Assets time: 0.000143s
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.23 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.080 MB)
@@ -1297,35 +1387,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSilenceGenerator.dll - GUID: 3d75066c9d4cb4f6d90006f3e6989e9c...
- done. [Time: 5.561194 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000267s
-Assembly Updater Post Process Assets time: 0.000224s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.11 ms.
+ done. [Time: 4.373542 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000232s
+Assembly Updater Post Process Assets time: 0.000168s
+Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.049 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTimeStretch.bundle - GUID: 1e6967ac2c69142e49327e31d5a6915a...
- done. [Time: 4.152709 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000012s
-Assembly Updater Post Process Assets time: 0.000025s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.05 ms.
+ done. [Time: 3.587528 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000013s
+Assembly Updater Post Process Assets time: 0.000021s
+Refreshing native plugins compatible for Editor in 1.74 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.88 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.208 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkRoomVerb.dll - GUID: 43c569bcdd9d0450294c7c331f006515...
- done. [Time: 4.039983 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000286s
-Assembly Updater Post Process Assets time: 0.000420s
-Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.04 ms.
+ done. [Time: 5.214308 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000269s
+Assembly Updater Post Process Assets time: 0.000268s
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.47 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.021 MB)
@@ -1333,11 +1423,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSineTone.bundle - GUID: 60207ebc3e54f4aa286ee7a853a53d57...
- done. [Time: 3.334971 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000022s
-Assembly Updater Post Process Assets time: 0.000020s
-Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 4.249461 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.38 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.025 MB)
@@ -1345,35 +1435,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkCompressor.bundle - GUID: c20ac2dcdf32a41b28cbf438fc4cc083...
- done. [Time: 3.194857 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000007s
-Assembly Updater Post Process Assets time: 0.000019s
-Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.45 ms.
+ done. [Time: 4.346371 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000027s
+Assembly Updater Post Process Assets time: 0.000034s
+Refreshing native plugins compatible for Editor in 1.69 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.56 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.047 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkFlanger.bundle - GUID: 52d81f1dd13654729a93d8f379f4fdee...
- done. [Time: 3.848840 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000008s
-Assembly Updater Post Process Assets time: 0.000020s
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 4.968656 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000026s
+Assembly Updater Post Process Assets time: 0.000021s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.15 ms.
 
 Hashing assets (1 files)... 0.001 seconds
-  file read: 0.001 seconds (0.083 MB)
+  file read: 0.000 seconds (0.083 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkReflect.bundle - GUID: 2241a32df9327466bbd4d6746c7e19ed...
- done. [Time: 3.448464 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000011s
-Assembly Updater Post Process Assets time: 0.000021s
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.02 ms.
+ done. [Time: 5.679103 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000014s
+Assembly Updater Post Process Assets time: 0.000022s
+Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.04 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.031 MB)
@@ -1381,52 +1471,52 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTremolo.bundle - GUID: be99366d5c63d4ac7b02f64981665a88...
- done. [Time: 3.398647 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000007s
-Assembly Updater Post Process Assets time: 0.000019s
-Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.05 ms.
+ done. [Time: 3.525777 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000009s
+Assembly Updater Post Process Assets time: 0.000020s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.15 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.119 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkMotion.dll - GUID: 10beb6bda877d4eba95552ac253161cc...
- done. [Time: 3.916483 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000150s
-Assembly Updater Post Process Assets time: 0.000138s
-Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.13 ms.
+ done. [Time: 5.260283 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000181s
+Assembly Updater Post Process Assets time: 0.000134s
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
 
-Hashing assets (1 files)... 0.004 seconds
+Hashing assets (1 files)... 0.005 seconds
   file read: 0.001 seconds (2.965 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.004 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkSoundEngine.dll - GUID: 0e243abd00f624993b7b9d063a632113...
- done. [Time: 5.174730 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000186s
-Assembly Updater Post Process Assets time: 0.000170s
-Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.15 ms.
+ done. [Time: 4.949209 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000205s
+Assembly Updater Post Process Assets time: 0.000183s
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.55 ms.
 Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle - GUID: e2da42cd7f52a4e238c43a5a8e8bc730...
- done. [Time: 3.582356 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000011s
-Assembly Updater Post Process Assets time: 0.000023s
-Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 4.291401 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000009s
+Assembly Updater Post Process Assets time: 0.000017s
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.10 ms.
 
 Hashing assets (1 files)... 0.011 seconds
-  file read: 0.010 seconds (6.438 MB)
-  wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.002 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.008 seconds
+  file read: 0.001 seconds (6.438 MB)
+  wait for write: 0.002 seconds (I/O thread blocked by consumer, aka CPU bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.010 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAuro.bundle - GUID: b8e3f4eda426841a198b95cfbc5cbe41...
- done. [Time: 65.145233 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000014s
-Assembly Updater Post Process Assets time: 0.000032s
-Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+ done. [Time: 3.480849 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000012s
+Assembly Updater Post Process Assets time: 0.000024s
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
@@ -1435,23 +1525,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkDelay.bundle - GUID: a702f0fddd09145bdba752e46e5875fe...
- done. [Time: 3.390494 ms] 
+ done. [Time: 3.889238 ms] 
 Script Compilation Pipeline Post Process Assets time: 0.000013s
-Assembly Updater Post Process Assets time: 0.000029s
-Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.08 ms.
+Assembly Updater Post Process Assets time: 0.000039s
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.29 ms.
 
 Hashing assets (1 files)... 0.008 seconds
   file read: 0.001 seconds (5.453 MB)
   wait for write: 0.001 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.008 seconds
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  hash: 0.007 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkSoundEngine.dll - GUID: 2d02cc0e12e3147f78e720388b45ebec...
- done. [Time: 4.928228 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000250s
-Assembly Updater Post Process Assets time: 0.000227s
-Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.13 ms.
+ done. [Time: 5.840443 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000355s
+Assembly Updater Post Process Assets time: 0.000324s
+Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.49 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.098 MB)
@@ -1459,11 +1549,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkPeakLimiter.dll - GUID: e728801ec73de4eb49b029bd3e9d1163...
- done. [Time: 4.397923 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000171s
-Assembly Updater Post Process Assets time: 0.000260s
-Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.16 ms.
+ done. [Time: 5.415407 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000215s
+Assembly Updater Post Process Assets time: 0.000175s
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.36 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.089 MB)
@@ -1471,11 +1561,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkRecorder.dll - GUID: 94a26c2eedd3f46ed82267e5b182f0ab...
- done. [Time: 4.171641 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000252s
-Assembly Updater Post Process Assets time: 0.000208s
+ done. [Time: 5.132193 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000233s
+Assembly Updater Post Process Assets time: 0.000228s
 Refreshing native plugins compatible for Editor in 1.43 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.20 ms.
+Preloading 1 native plugins for Editor in 1.31 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.162 MB)
@@ -1483,11 +1573,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkMatrixReverb.dll - GUID: d257ef5ee2c5f49f28bda420b74138f3...
- done. [Time: 76.488754 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000256s
-Assembly Updater Post Process Assets time: 0.000174s
-Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.48 ms.
+ done. [Time: 4.964506 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000248s
+Assembly Updater Post Process Assets time: 0.000270s
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.20 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.022 MB)
@@ -1495,11 +1585,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkAudioInput.bundle - GUID: c500b97e11f2044919e2eeba23cdb3a9...
- done. [Time: 10.129421 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000025s
-Assembly Updater Post Process Assets time: 0.000038s
-Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.18 ms.
+ done. [Time: 3.481904 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000009s
+Assembly Updater Post Process Assets time: 0.000019s
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.19 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.113 MB)
@@ -1507,11 +1597,11 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSynthOne.dll - GUID: 335e7fae6ee524f3f80598f79728a133...
- done. [Time: 51.923762 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000232s
-Assembly Updater Post Process Assets time: 0.000200s
-Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.52 ms.
+ done. [Time: 4.564907 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000258s
+Assembly Updater Post Process Assets time: 0.000293s
+Refreshing native plugins compatible for Editor in 1.56 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.50 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.098 MB)
@@ -1519,23 +1609,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkParametricEQ.dll - GUID: 8f7c94ce24883455e85ef81f95606132...
- done. [Time: 4.876908 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000290s
-Assembly Updater Post Process Assets time: 0.000231s
-Refreshing native plugins compatible for Editor in 1.65 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.29 ms.
+ done. [Time: 5.629943 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000247s
+Assembly Updater Post Process Assets time: 0.000194s
+Refreshing native plugins compatible for Editor in 1.43 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.19 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.394 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
-  hash: 0.001 seconds
+  hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkWaapiClient.dll - GUID: 93c4f2ee6f4134c2d91be212034858ee...
- done. [Time: 4.767824 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000396s
-Assembly Updater Post Process Assets time: 0.000335s
-Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.47 ms.
+ done. [Time: 5.491381 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000258s
+Assembly Updater Post Process Assets time: 0.000339s
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.07 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.116 MB)
@@ -1543,35 +1633,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTremolo.dll - GUID: 7f9bfe1fc7c014e4bb725ffb0ac66e09...
- done. [Time: 4.339426 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000240s
-Assembly Updater Post Process Assets time: 0.000279s
-Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.00 ms.
+ done. [Time: 5.825859 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000402s
+Assembly Updater Post Process Assets time: 0.000300s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.34 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.092 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSineTone.dll - GUID: efe2d62f07f824333a88cc2de4f2d4c0...
- done. [Time: 3.754803 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000212s
-Assembly Updater Post Process Assets time: 0.000233s
-Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 5.752366 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000193s
+Assembly Updater Post Process Assets time: 0.000154s
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.43 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.141 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkReflect.dll - GUID: caeb0e4f652de4f5bb18ba826d6823bc...
- done. [Time: 4.156767 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000149s
-Assembly Updater Post Process Assets time: 0.000133s
-Refreshing native plugins compatible for Editor in 1.81 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.24 ms.
+ done. [Time: 4.971635 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000183s
+Assembly Updater Post Process Assets time: 0.000144s
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.17 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.102 MB)
@@ -1579,23 +1669,23 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedImpact.dll - GUID: 800a887fbb04442368fd8e391e80275c...
- done. [Time: 3.916714 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000182s
-Assembly Updater Post Process Assets time: 0.000159s
-Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.24 ms.
+ done. [Time: 3.940237 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000162s
+Assembly Updater Post Process Assets time: 0.000140s
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.10 ms.
 
-Hashing assets (1 files)... 0.003 seconds
+Hashing assets (1 files)... 0.004 seconds
   file read: 0.000 seconds (2.200 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.003 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkWaapiClient.dll - GUID: b7895fbf545a644ad941cbba774036d3...
- done. [Time: 4.060827 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000221s
-Assembly Updater Post Process Assets time: 0.000165s
-Refreshing native plugins compatible for Editor in 1.56 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.46 ms.
+ done. [Time: 4.406763 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000236s
+Assembly Updater Post Process Assets time: 0.000145s
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.47 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.105 MB)
@@ -1603,35 +1693,35 @@ Hashing assets (1 files)... 0.001 seconds
   wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkParametricEQ.dll - GUID: 6d5e8ccf4a2c34239bcc98aabe58d0e2...
- done. [Time: 4.306647 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000226s
-Assembly Updater Post Process Assets time: 0.000202s
-Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.62 ms.
+ done. [Time: 4.136837 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000248s
+Assembly Updater Post Process Assets time: 0.000151s
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.90 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.091 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkGain.dll - GUID: 96aeceef459b941f4abf4d1cf1c6c201...
- done. [Time: 4.233188 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000278s
-Assembly Updater Post Process Assets time: 0.000214s
-Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.03 ms.
+ done. [Time: 4.034747 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000347s
+Assembly Updater Post Process Assets time: 0.000258s
+Refreshing native plugins compatible for Editor in 2.06 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.27 ms.
 
 Hashing assets (1 files)... 0.001 seconds
   file read: 0.000 seconds (0.040 MB)
   wait for write: 0.000 seconds (I/O thread blocked by consumer, aka CPU bound)
-  wait for read: 0.000 seconds (CPUT thread waiting for I/O thread, aka disk bound)
+  wait for read: 0.001 seconds (CPUT thread waiting for I/O thread, aka disk bound)
   hash: 0.000 seconds
 Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkToneGen.bundle - GUID: 4c5da6ff39f3f4e579e14668ebf907da...
- done. [Time: 3.379346 ms] 
-Script Compilation Pipeline Post Process Assets time: 0.000011s
-Assembly Updater Post Process Assets time: 0.000035s
-Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 1.00 ms.
+ done. [Time: 3.379309 ms] 
+Script Compilation Pipeline Post Process Assets time: 0.000023s
+Assembly Updater Post Process Assets time: 0.000021s
+Refreshing native plugins compatible for Editor in 2.06 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.14 ms.
 WwiseUnity: Refreshing asset database.
 UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -1643,8 +1733,8 @@ WwiseSetupWizard:RunModify() (at Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSet
 
 Refresh: detecting if any assets need to be imported or removed ...
 
-Refresh Completed time: 0.041590s
-	Asset Scan time: 0.040978s
+Refresh Completed time: 0.049624s
+	Asset Scan time: 0.048804s
 	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
 	Asset Import (Scripting) time: 0.000000s (count: 0)
 	Post Processs Assets (Scripting) time: 0.000000s
@@ -1663,12 +1753,12 @@ WwiseSetupWizard:RunModify() (at Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSet
 (Filename: Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs Line: 34)
 
 Batchmode quit successfully invoked - shutting down!
-[Performance] CurlRequestCheck                        :        3 samples, Peak.  46.0 us (1.6x), Avg.  28.6 us, Total. 85.95 us (0.0%)
-[Performance] PackageManager::RunRequestSynchronously :        9 samples, Peak.  35.0 us (3.2x), Avg.  11.0 us, Total. 98.94 us (0.0%)
+[Performance] CurlRequestCheck                        :        3 samples, Peak.  32.1 us (1.2x), Avg.  27.1 us, Total. 81.18 us (0.0%)
+[Performance] PackageManager::RunRequestSynchronously :        5 samples, Peak.  42.0 us (3.0x), Avg.  14.2 us, Total. 70.81 us (0.0%)
 Refresh: detecting if any assets need to be imported or removed ...
 
-Refresh Completed time: 0.043196s
-	Asset Scan time: 0.042051s
+Refresh Completed time: 0.048647s
+	Asset Scan time: 0.047990s
 	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
 	Asset Import (Scripting) time: 0.000000s (count: 0)
 	Post Processs Assets (Scripting) time: 0.000000s
@@ -1679,8 +1769,8 @@ Refresh Completed time: 0.043196s
 
 Refresh: detecting if any assets need to be imported or removed ...
 
-Refresh Completed time: 0.042559s
-	Asset Scan time: 0.041880s
+Refresh Completed time: 0.073955s
+	Asset Scan time: 0.072581s
 	Asset Hashing: 0.000000s [0 B, 0.000000 mb/s]
 	Asset Import (Scripting) time: 0.000000s (count: 0)
 	Post Processs Assets (Scripting) time: 0.000000s

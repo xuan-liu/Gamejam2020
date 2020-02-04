@@ -8,7 +8,18 @@ public class PlayerCollision : MonoBehaviour
     public GameObject dialogUI;
     public static bool GameIsPaused;
 
+    public int statenumber = 0;
+
     GameManager manager;
+
+
+    //singleton
+    public static PlayerCollision instance;
+    void Awake()
+	{
+        instance = this;
+	}
+
 
     void Start()
     {
@@ -47,14 +58,73 @@ public class PlayerCollision : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("trigger");
+        //Debug.Log("trigger");
 
         if (other.tag == "Items")
         {
             //Step 1: print out to console what happens in this if statement
-            Debug.Log("hit a cube! generate a dialog");
+            
             manager.score++;
             manager.scoreText.text = manager.score.ToString() + "/5 Memories";
+            statenumber++;
+
+
+            if (statenumber == 0)
+			{
+                PlayAudio.instance.PlaySad();
+                PlayAudio.instance.PlaySand();
+                PlayAudio.instance.ELevel1.Post(gameObject);
+                Debug.Log("State 1");
+            }
+
+
+            if (statenumber == 1)
+			{
+                PlayAudio.instance.PlaySad();
+                PlayAudio.instance.PlaySand();
+                PlayAudio.instance.ELevel2.Post(gameObject);
+                Debug.Log("State 2"); 
+            }
+
+
+            if (statenumber == 2)
+			{
+                PlayAudio.instance.PlayHappy();
+                PlayAudio.instance.PlayDryGrass();
+                PlayAudio.instance.ELevel3.Post(gameObject);
+                Debug.Log("State 3"); 
+            }
+
+
+            if (statenumber == 3)
+			{
+                PlayAudio.instance.PlayHappy();
+                PlayAudio.instance.PlayDryGrass();
+                PlayAudio.instance.ELevel4.Post(gameObject);
+                Debug.Log("State 4"); 
+
+            }
+
+
+            if (statenumber == 4)
+            {
+                PlayAudio.instance.PlayHappy();
+                PlayAudio.instance.PlayGrass();
+                PlayAudio.instance.ELevel5.Post(gameObject);
+                Debug.Log("State 5");
+
+            }
+
+
+            if (statenumber == 5)
+            {
+                PlayAudio.instance.PlayHappy();
+                PlayAudio.instance.PlayGrass();
+                PlayAudio.instance.ELevel6.Post(gameObject);
+                Debug.Log("State 6");
+            }
+
+
             manager.ChangeIsland(manager.score);
 
             dialogUI.SetActive(true);
@@ -72,7 +142,7 @@ public class PlayerCollision : MonoBehaviour
     {
         if (GameIsPaused = true && Input.GetMouseButtonDown(0))
         {
-            Debug.Log("finish the dialog, continue the game!");
+            //Debug.Log("finish the dialog, continue the game!");
             GameIsPaused = false;
             dialogUI.SetActive(false);
             Time.timeScale = 1f;

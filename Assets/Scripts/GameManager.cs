@@ -36,6 +36,7 @@ public class GameManager : MonoBehaviour
     public const int scoreToYellowThird = 15;
     public const int scoreToFinish = 18;
 
+
     public Texture[] firstTextures;
     public Texture[] secondTextures;
     public Texture[] thirdTextures;
@@ -47,6 +48,8 @@ public class GameManager : MonoBehaviour
 
     // current level of the game
     public int level = 0;
+    public int IslandState = 0;
+
 
     public void Awake()
     {
@@ -164,46 +167,47 @@ public class GameManager : MonoBehaviour
         thirdIsland.SetActive(true);
     }
 
+
+
+
     public void ChangeIslandColor(int i, int j)
     {
+        IslandState = j;
         switch (i)
         {
             case 0:
                 firstIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", firstTextures[j]);
-                if (j == 0) 
+                if (j == 0)
                 {
-                    PlayAudio.instance.PlayTexture1();
-                    PlayAudio.instance.PlaySad();
-                    Debug.Log("Texture 1, Sad, Sand");
-                }
-                if (j==1)
-                {
-                    PlayAudio.instance.PlayTexture2();
-                    PlayAudio.instance.PlayHappy();
-                    Debug.Log("Texture 2, Happy, Dry Grass");
+                    Debug.Log("Island Color 1");
+                    //Play island color change sfx
 
                 }
+
+                if (j ==1)
+				{
+                    Debug.Log("Island Color 2");
+                }
+
+
 
                 if (j==2)
-                {
-                    PlayAudio.instance.PlayTexture3();
-                    PlayAudio.instance.PlayHappy();
-                    Debug.Log("Texture 3, Happy, Grass");
+				{
+                    Debug.Log("Island Color 3");
                 }
+
+
                 break;
+
             case 1:
                 secondIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", secondTextures[j]);
-
-
-
                 break;
             case 2:
                 thirdIsland.GetComponent<Renderer>().material.SetTexture("_MainTex", thirdTextures[j]);
-
-
-
                 break;
         }
+
+
     }
 
     // Start is called before the first frame update
@@ -217,7 +221,7 @@ public class GameManager : MonoBehaviour
         ResetToStart();
     }
 
-    // Update is called once per frame
+    //Update is called once per frame
     void Update()
     {        
         if (player.transform.position.y > finish1.position.y)
@@ -230,6 +234,7 @@ public class GameManager : MonoBehaviour
 
             }
         }
+
 
     }
 

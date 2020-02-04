@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="UserProjectSettings" SchemaVersion="94">
+	<UserProjectSettingsInfo>
+		<UserProjectSettings Name="" ID="{1DA5B345-645C-4CB9-B8DD-A954279B7B0E}">
+			<PropertyList>
+				<Property Name="ExternalSourcesInputPath" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+				<Property Name="ExternalSourcesOutputPath" Type="string">
+					<ValueList>
+						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
+					</ValueList>
+				</Property>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="VV7U+Pc0Wka0rOq/wMdxCJ+1zdgtNYJPszRFPrT4yj4="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="Fltgr5btpUqY21cLTFBTPg=="/>
+				<Property Name="Interactive Music\x64_{245E7995-1991-4AC9-947C-5A832F0EB667} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwP4JdUvkwLghAAAAAAAAA8D8AAAAAAAAAAAAAAAAAwIVA"/>
+				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
+				<Property Name="Music Transition List\{185EE4FA-6F94-48C9-B639-294D4BE60660}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{1AA23E82-1EC2-4CAF-BEFD-AE8FF007AAA3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{1CD10F57-304C-48A2-9176-6BC5FB2B80A4}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{291463B3-07C8-401C-9C9C-8725D76E3C9D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{3374AC96-2B4D-42A5-82F5-680BA0A489E1}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{375D3A67-DE35-4633-A6A6-0F79E8BD6BA5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{6F2D3C61-4189-47F0-B8F3-6DD915690290}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{A67809A9-60EB-49AD-A24F-11F1A463D667}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{B7DC7D62-491F-4A38-8676-AF1BA3DB7A69}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{C3C2A78C-71F0-4360-A3ED-54C8C2D00FB3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{CBC8AB43-F940-4C9C-AD35-D2ED9334F90E}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{F7F4D99A-56D4-407D-B6D8-CCA6E5905FC7}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="SettingsUserOverride" Type="bool" Value="True"/>
+				<Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True"/>
+				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
+				<Property Name="SoundBankPaths" Type="string">
+					<ValueList>
+						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">
+					<ValueList>
+						<Value Platform="Mac">Copy Streamed Files</Value>
+						<Value Platform="Windows">Copy Streamed Files</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPostGenerateCustomCmdLines" Type="string">
+					<ValueList>
+						<Value Platform="Mac">"$(WwiseExePath)\CopyStreamedFiles.exe" -info "$(InfoFilePath)" -outputpath "$(SoundBankPath)" -banks "$(SoundBankListAsTextFile)" -languages "$(LanguageList)"</Value>
+						<Value Platform="Windows">"$(WwiseExePath)\CopyStreamedFiles.exe" -info "$(InfoFilePath)" -outputpath "$(SoundBankPath)" -banks "$(SoundBankListAsTextFile)" -languages "$(LanguageList)"</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPreGenerateCustomCmdDescription" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPreGenerateCustomCmdLines" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+			</PropertyList>
+		</UserProjectSettings>
+	</UserProjectSettingsInfo>
+</WwiseDocument>

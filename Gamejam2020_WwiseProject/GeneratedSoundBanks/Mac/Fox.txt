@@ -39,6 +39,7 @@ Custom State	ID	Name	State Group	Owner		Notes
 	12223988	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		
 	21323635	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
 	43922657	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		
+	82227434	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		
 	89513516	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
 	95373851	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
 	105677396	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		
@@ -48,6 +49,7 @@ Custom State	ID	Name	State Group	Owner		Notes
 	125999809	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Toys Bells_1		
 	141043484	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		
 	159894153	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		
+	161165538	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		
 	173803937	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
 	192083453	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 Windy Desert		
 	255549599	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		
@@ -58,16 +60,20 @@ Custom State	ID	Name	State Group	Owner		Notes
 	297610833	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		
 	317654378	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
 	351449929	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
+	382189155	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		
 	383789942	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
+	385742570	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		
 	386159109	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
 	386601948	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		
 	394398740	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		
 	408345511	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
+	442952715	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		
 	466677709	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		
 	474413790	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
 	476343403	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
 	483203328	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		
 	501649026	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
+	508841868	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		
 	535266478	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		
 	536425564	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 Windy Desert		
 	549375339	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		
@@ -76,8 +82,11 @@ Custom State	ID	Name	State Group	Owner		Notes
 	558605195	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Toys Bells_1		
 	565469103	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
 	572362642	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Toys Bells_1		
+	586716010	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
 	587586875	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		
 	594304250	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		
+	601161643	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		
+	610982369	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		
 	621971459	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		
 	627721986	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
 	642307839	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		
@@ -89,66 +98,72 @@ Custom State	ID	Name	State Group	Owner		Notes
 	723651712	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		
 	768152924	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		
 	781521496	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		
+	781923431	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		
 	782094910	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		
-	825838225	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		
+	804489974	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		
 	838305522	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		
 	856797687	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		
 	866715169	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		
+	879661415	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		
 	915001295	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
 	943394510	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 Windy Desert		
 	951464030	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
+	956167227	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		
 	979128010	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		
+	981482229	State_5	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		
 	982262324	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		
 	982318610	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		
 	985458221	State_3	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		
+	991220344	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		
 	1000841800	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		
 	1008891097	State_1	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
 	1012147630	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
 	1047877250	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		
 	1055843389	State_2	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		
 	1055850344	State_6	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		
+	1058520215	State_4	Music_Layers	\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	1348889	491485__fabianacarmonas__29pasos-corriendo-en-cesped_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_7299FF01.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_03		36620
-	20935465	427127__caap__82-perritogimoteafeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427127__caap__82-perritogimoteafeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427127__caap__82-perritogimoteafeliz		149666
-	28087368	E-Piano Keys_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\E-Piano Keys_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		5292144
-	34948066	jump-to-grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_9EAC8189.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass		8490
-	55956683	427133__caap__74-perritoladrasorprendido	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427133__caap__74-perritoladrasorprendido_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427133__caap__74-perritoladrasorprendido		31538
-	91091370	jump-to-grass_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_3F3FB2AC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass_01		7873
-	109231995	491485__fabianacarmonas__29pasos-corriendo-en-cesped	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped		40532
-	127469144	5 Windy Forest	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\243617__mrauralization__windy-forest_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		356368
-	138037646	1 flies and leaves	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\flies and leaves_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		429932
-	159743943	Autobahn Arp_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Autobahn Arp_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		5292144
-	240197249	Ocean	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\400632__inspectorj__ambience-seaside-waves-close-a_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean		3823152
-	243927064	427117__caap__06-perritogimoteando	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427117__caap__06-perritogimoteando_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427117__caap__06-perritogimoteando		48856
-	254784022	Sand Walking	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_142A111D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking		51960
-	259543006	Strings_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Strings_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		5292144
-	265186300	427167__caap__15-perritoguautierno	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427167__caap__15-perritoguautierno_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427167__caap__15-perritoguautierno		38150
-	265344586	491485__fabianacarmonas__29pasos-corriendo-en-cesped_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01B40678.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01		35308
-	270348714	427180__caap__43-perritoselamenta	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427180__caap__43-perritoselamenta_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427180__caap__43-perritoselamenta		49680
-	282085089	3 Desert with Creatures	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert with Creatures_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		1878937
-	310542485	Sand Walking_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_A513D3B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_02		171648
-	365483275	4 Birds Forest	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\474340__pborel__forest-birds1a_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		2470077
-	460140108	Jump off to grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Jump off to grass_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Jump off to grass		5378
-	467803139	Sand Walking_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_21A6FF38.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_01		196160
-	496802094	Sand Walking_04	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_AB229659.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_04		183904
-	505718827	Toys Bells_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Toys Bells_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Toys Bells_1		5292144
-	515171751	2 Desert	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert\427401__imjeax__desert-ambient-loop_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		1095302
-	551380753	African Drum	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\African Drum_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		5292144
-	564514119	411148__etm654__running-in-grass_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_CE55EE71.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_03		43072
-	625639358	411148__etm654__running-in-grass_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_A6690B37.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_02		41056
-	653340504	Sand Walking_03	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_6EA62789.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_03		136740
-	800334971	Chemistry Set (Water)_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Chemistry Set (Water)_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		5292144
-	817944739	0 Windy Desert	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Windy Desert_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 Windy Desert		1363726
-	818807653	491485__fabianacarmonas__29pasos-corriendo-en-cesped_02	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_4AC4D03A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_02		37924
-	881967954	427187__caap__64-perritotriste	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427187__caap__64-perritotriste_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427187__caap__64-perritotriste		88992
-	886714693	411148__etm654__running-in-grass	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_B48BCF13.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass		37696
-	944081079	Slowing down	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Slowing down_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Slowing down		3428
-	965452409	Strings_2	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Strings_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		5292144
-	971256709	African Drum_2	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\African Drum_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		5292144
-	996620606	Tin Whistle_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Tin Whistle_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		5292144
-	1028363226	427145__caap__24-guauperritofeliz	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\427145__caap__24-guauperritofeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427145__caap__24-guauperritofeliz		28028
-	1030849744	Bouncing Balls_1	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\Bouncing Balls_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		5292144
-	1047108433	PickUp	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\141695__copyc4t__levelup_E7E83A2C.wem		\Actor-Mixer Hierarchy\Default Work Unit\PickUp		20692
-	1069672804	411148__etm654__running-in-grass_01	Y:\Documents\GitHub\Gamejam2020\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_13A407D2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_01		41728
+	1348889	491485__fabianacarmonas__29pasos-corriendo-en-cesped_03	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_7299FF01.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_03		36620
+	20935465	427127__caap__82-perritogimoteafeliz	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427127__caap__82-perritogimoteafeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427127__caap__82-perritogimoteafeliz		149666
+	28087368	E-Piano Keys_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\E-Piano Keys_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\E-Piano Keys_1		5292144
+	34948066	jump-to-grass	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_9EAC8189.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass		8490
+	55956683	427133__caap__74-perritoladrasorprendido	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427133__caap__74-perritoladrasorprendido_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427133__caap__74-perritoladrasorprendido		31538
+	91091370	jump-to-grass_01	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\jump-to-grass_3F3FB2AC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\jump-to-grass_01		7873
+	109231995	491485__fabianacarmonas__29pasos-corriendo-en-cesped	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_74D8D8A0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped		40532
+	127469144	5 Windy Forest	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\243617__mrauralization__windy-forest_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\5 Windy Forest		356368
+	138037646	1 flies and leaves	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\flies and leaves_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\1 flies and leaves		429932
+	159743943	Autobahn Arp_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Autobahn Arp_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Autobahn Arp_1		5292144
+	240197249	Ocean	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\400632__inspectorj__ambience-seaside-waves-close-a_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ocean		3823152
+	243927064	427117__caap__06-perritogimoteando	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427117__caap__06-perritogimoteando_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427117__caap__06-perritogimoteando		48856
+	254784022	Sand Walking	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_142A111D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking		51960
+	259543006	Strings_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Strings_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_1		5292144
+	265186300	427167__caap__15-perritoguautierno	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427167__caap__15-perritoguautierno_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427167__caap__15-perritoguautierno		38150
+	265344586	491485__fabianacarmonas__29pasos-corriendo-en-cesped_01	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01B40678.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_01		35308
+	270348714	427180__caap__43-perritoselamenta	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427180__caap__43-perritoselamenta_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427180__caap__43-perritoselamenta		49680
+	282085089	3 Desert with Creatures	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert with Creatures_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\3 Desert with Creatures		1878937
+	310542485	Sand Walking_02	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_A513D3B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_02		171648
+	365483275	4 Birds Forest	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\474340__pborel__forest-birds1a_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\4 Birds Forest		2470077
+	460140108	Jump off to grass	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Jump off to grass_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Jump off to grass		5378
+	467803139	Sand Walking_01	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_21A6FF38.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_01		196160
+	496802094	Sand Walking_04	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_AB229659.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_04		183904
+	505718827	Toys Bells_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Toys Bells_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Toys Bells_1		5292144
+	515171751	2 Desert	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Desert\427401__imjeax__desert-ambient-loop_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\2 Desert		1095302
+	551380753	African Drum	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\African Drum_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum		5292144
+	564514119	411148__etm654__running-in-grass_03	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_CE55EE71.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_03		43072
+	625639358	411148__etm654__running-in-grass_02	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_A6690B37.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_02		41056
+	653340504	Sand Walking_03	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Sand Walking_6EA62789.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Sand Walk\Sand Walking_03		136740
+	800334971	Chemistry Set (Water)_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Chemistry Set (Water)_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Chemistry Set (Water)_1		5292144
+	817944739	0 Windy Desert	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Windy Desert_B587EF35.wem		\Interactive Music Hierarchy\Default Work Unit\Ambience\Ambiences\0 Windy Desert		1363726
+	818807653	491485__fabianacarmonas__29pasos-corriendo-en-cesped_02	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\491485__fabianacarmonas__29pasos-corriendo-en-cesped_4AC4D03A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\Dry Grass\491485__fabianacarmonas__29pasos-corriendo-en-cesped_02		37924
+	881967954	427187__caap__64-perritotriste	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427187__caap__64-perritotriste_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Sad\427187__caap__64-perritotriste		88992
+	886714693	411148__etm654__running-in-grass	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_B48BCF13.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass		37696
+	944081079	Slowing down	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Slowing down_49718417.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump\Slowing down		3428
+	965452409	Strings_2	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Strings_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Strings_2		5292144
+	971256709	African Drum_2	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\African Drum_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\African Drum_2		5292144
+	996620606	Tin Whistle_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Tin Whistle_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Tin Whistle_1		5292144
+	1028363226	427145__caap__24-guauperritofeliz	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\427145__caap__24-guauperritofeliz_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fox Voice\Fox Happy\427145__caap__24-guauperritofeliz		28028
+	1030849744	Bouncing Balls_1	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\Bouncing Balls_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MusicBGM\Bouncing Balls_1		5292144
+	1047108433	PickUp	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\141695__copyc4t__levelup_E7E83A2C.wem		\Actor-Mixer Hierarchy\Default Work Unit\PickUp		20692
+	1069672804	411148__etm654__running-in-grass_01	Y:\Documents\GitHub\A-Fox-s-Heart\Gamejam2020_WwiseProject\.cache\Mac\SFX\411148__etm654__running-in-grass_13A407D2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ground Type\GrassWalk\411148__etm654__running-in-grass_01		41728
 
